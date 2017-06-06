@@ -1,0 +1,745 @@
+Age,Gender,Tenure/Duration/Ageing,Qualification,Current Occupation/Job,Agency Type,Interim Number of Policies issued,Number of policies rated up,First Years Premium,Renewal Premium,Commission Clawback, Product Type=Risk,Avg TAT for Risk Product, Product Type=Investment,Avg TAT for Investment Product, Product Type=Annuity,Avg TAT for Annuity Product,Renewal commission,Deviation from target policies,Training & DevelopmentRandom NumberMe,Agency Portal usage,Unit Manager,Quotes requested,Agency survery-Satisfaction,No Policy Cancellation-FLC ,Number of Compliants received,Number of Claims Declined,Hit Ratio,Number of policies declined,Label
+59,1,1,Post Graduate,Proffessor,Independent,125,0,86365,82795,7838,36,8,35,3,54,1,6210,20,3,High,HymanRory,139,5,0,0,0,0.43980344,0,2
+58,1,2,Post Graduate,Doctor,Captive,158,0,95661,87334,7051,39,9,42,2,49,1,6551,65,2,Low,VickieMai,130,6,0,0,0,1.10738255,1,2
+32,1,11,Graduate,Architect,Captive,258,0,78249,85927,5095,62,8,64,1,68,1,6445,-71,6,High,JacquelynLonny,309,4,0,0,0,1.544,0,1
+45,1,15,Graduate,Consultant,Captive,339,8,83615,99700,0,82,9,75,2,92,0,7478,-2,4,High,AdrienneElliott,518,8,0,0,0,0.881967213,2,2
+33,1,1,Graduate,Architect,Captive,530,7,83761,80310,7764,70,11,73,4,77,0,6024,-242,1,Medium,KristopherRolando,220,10,0,2,0,0.330472103,2,2
+59,2,38,Post Graduate,Driver,Independent,186,5,87314,77620,5762,43,6,45,0,54,2,5822,11,5,Low,MagdalenaCarmen,142,5,0,0,0,0.616481775,1,2
+41,1,14,Post Graduate,Driver,Independent,238,5,76370,90660,0,50,9,48,1,58,2,6800,4,5,Medium,LorenzoJohanna,245,5,0,0,1,0.307692308,1,2
+26,2,2,Post Graduate,Doctor,Independent,599,6,54513,83958,0,55,10,56,3,65,2,6297,-504,1,High,AmyShaun,204,10,0,0,1,0.490196078,1,1
+34,1,12,Graduate,Proffessor,Independent,600,0,88670,75778,0,47,6,44,4,66,1,5684,-376,4,High,DeandreAimee,156,5,2,1,0,0.678787879,1,2
+28,1,4,Graduate,Driver,Captive,479,0,53384,91266,8027,43,6,49,4,62,2,6845,-357,1,High,BusterNadia,484,5,2,2,0,2.812154696,1,1
+46,1,1,Post Graduate,Consultant,Captive,321,7,67767,89408,8182,75,10,75,3,77,0,6706,-185,6,Low,TwilaBradley,542,8,2,0,2,0.562637363,2,1
+43,1,13,Post Graduate,Business,Independent,198,0,78345,83329,5023,57,10,63,4,77,2,6250,40,2,Medium,DwightNeva,403,3,0,0,2,0.297163995,2,2
+41,1,9,Graduate,Pilot,Independent,487,0,65668,95297,0,137,10,142,4,194,2,7148,-32,3,High,BillyJerry,511,6,5,0,0,0.540478905,0,1
+47,2,15,Post Graduate,Engineer,Captive,466,0,55277,84554,0,58,11,62,2,68,1,6342,-307,6,Low,VickieMai,188,5,2,1,1,0.744712991,1,1
+50,1,20,Graduate,Engineer,Captive,136,5,76742,84808,6877,39,7,41,2,56,1,6361,65,4,High,BusterNadia,556,3,0,3,0,0.438858696,0,2
+52,1,33,Post Graduate,Consultant,Independent,609,11,86271,98453,0,105,11,102,2,133,2,7384,-340,5,High,LorenzoJohanna,340,2,0,0,0,0.522836538,2,1
+47,1,15,Post Graduate,Teacher,Independent,502,0,97271,96898,6956,38,6,41,1,52,2,7268,-425,3,High,MavisJanelle,131,1,0,0,0,1.609230769,0,1
+49,2,2,Graduate,Software Developer,Independent,393,0,70177,91519,8658,50,9,59,0,69,2,6864,-180,2,Low,YoungMicah,178,2,0,3,0,1.067669173,1,2
+29,1,2,Graduate,Teacher,Captive,408,13,79631,93825,0,114,7,122,1,171,0,7037,63,2,Medium,AmyShaun,460,2,0,0,2,1.549668874,3,2
+54,1,20,Post Graduate,Consultant,Independent,224,0,67007,85467,7361,55,9,56,4,71,2,6411,-20,2,Low,DiegoJane,182,2,2,4,0,0.77540107,0,2
+39,1,16,Graduate,Software Developer,Independent,436,7,82592,82589,0,68,11,64,0,74,1,6195,-185,6,High,MagdalenaCarmen,347,4,2,0,0,0.691275168,0,2
+20,1,1,Post Graduate,Business,Independent,480,0,68694,84550,0,144,7,149,4,187,2,6342,-91,3,Low,JohnathanLydia,509,10,0,5,0,1.071428571,0,1
+26,2,6,Post Graduate,Pensioner,Captive,128,4,72850,78537,0,36,9,38,3,54,0,5891,39,1,Low,MarcAlec,227,4,1,2,1,0.877333333,0,2
+39,1,20,Graduate,Engineer,Independent,292,0,94128,79249,5637,85,6,85,2,123,0,5944,61,4,High,JacquelynLonny,298,10,3,2,0,0.736263736,2,2
+31,1,0,Graduate,Pensioner,Captive,478,0,99268,95233,0,63,6,59,3,75,2,7143,-219,4,Low,DarrylErnie,203,6,0,0,0,0.411978221,0,2
+24,1,6,Graduate,Doctor,Independent,605,0,64614,76478,0,41,9,39,0,53,2,5736,-544,1,Low,TracieSasha,557,7,0,3,1,0.886666667,1,1
+34,2,14,Post Graduate,Business,Captive,245,8,67340,87230,0,78,7,81,1,86,2,6543,-99,3,High,AnitaMarshall,611,3,0,0,0,0.742316785,0,1
+47,1,26,Post Graduate,Consultant,Independent,443,6,66159,81999,0,50,7,51,3,76,0,6150,-214,3,Medium,DebraCollin,177,10,0,0,0,0.348837209,1,2
+51,1,23,Post Graduate,Teacher,Independent,332,10,52939,76165,0,110,11,106,2,116,0,5713,39,6,Low,PabloChelsea,347,3,0,3,1,2.408536585,0,2
+27,1,6,Post Graduate,Architect,Independent,449,0,74842,84057,0,101,6,98,1,117,1,6305,-106,1,High,ClaudioSherwood,443,6,3,0,0,0.540308748,2,2
+23,1,0,Graduate,Software Developer,Captive,385,12,82905,84656,9820,119,11,116,1,150,0,6350,-13,5,Medium,SpencerJarod,513,3,0,0,3,2.317919075,0,1
+29,1,4,Post Graduate,Engineer,Captive,563,8,70580,91055,9056,73,11,86,4,101,2,6830,-354,2,High,MarcAlec,588,3,3,5,2,0.360110803,0,1
+42,1,1,Post Graduate,Architect,Captive,476,0,61423,77222,5201,87,11,93,4,102,1,5792,-250,3,Low,KristopherRolando,495,1,3,0,0,0.681693989,2,1
+40,1,10,Graduate,Engineer,Independent,570,0,77990,86396,0,37,9,38,1,52,0,6480,-371,6,High,AlphonsoTasha,595,6,1,0,0,0.40922619,0,2
+53,1,13,Graduate,Proffessor,Independent,524,0,96780,95003,0,100,10,97,1,106,0,7126,-297,2,Low,MavisJanelle,583,5,0,0,1,0.706153846,2,1
+40,1,15,Graduate,Teacher,Captive,640,11,84051,78378,6451,104,10,114,4,128,2,5879,-368,1,High,JacquelynLonny,548,1,3,1,0,0.477839335,0,1
+44,2,8,Post Graduate,Driver,Independent,218,0,89208,76229,0,42,6,40,2,55,2,5718,-111,6,Low,MontyBuddy,137,7,1,2,0,3.129770992,0,1
+36,1,3,Post Graduate,Doctor,Independent,312,10,54073,96850,6482,94,11,100,0,119,1,7264,-47,3,High,DeandreAimee,641,7,0,3,0,0.694700461,3,1
+41,1,14,Graduate,Consultant,Captive,547,0,63479,91415,5365,131,6,115,0,164,1,6857,-142,4,High,AdrienneElliott,410,5,0,2,3,0.702970297,0,1
+28,1,6,Post Graduate,Consultant,Independent,234,4,71003,95257,6069,38,7,38,0,55,1,7145,-143,6,Medium,KimberlyCasandra,401,10,0,0,0,0.58801956,1,1
+29,1,10,Post Graduate,Software Developer,Captive,311,4,60661,96673,5813,39,8,39,0,44,0,7251,-108,3,Medium,KimberlyCasandra,365,7,0,2,1,0.516998828,0,2
+39,1,12,Graduate,Software Developer,Captive,240,0,96784,94140,8145,79,10,77,0,84,1,7061,-67,2,Medium,DwightNeva,455,5,0,0,0,1.329081633,0,1
+21,1,3,Graduate,Pilot,Captive,275,0,93448,87198,5965,46,6,49,2,54,1,6540,-58,6,Low,MayraAbram,221,3,0,0,0,1.856031128,0,2
+34,1,10,Graduate,Business,Captive,497,10,62394,90891,0,92,9,105,1,120,0,6817,-122,4,Low,DebraCollin,639,8,3,0,1,0.386585366,0,2
+53,1,33,Graduate,Proffessor,Independent,458,0,94963,93889,0,49,11,46,2,64,0,7042,-355,6,Medium,AnitaMarshall,245,1,0,0,0,0.244239631,1,1
+57,1,10,Graduate,Doctor,Captive,263,6,83127,87088,0,52,10,52,2,82,1,6532,-36,5,Low,DavidLuella,474,5,0,3,1,1.103125,0,2
+46,1,10,Post Graduate,Consultant,Independent,205,0,57511,96960,7119,56,7,56,0,63,1,7272,-52,1,Medium,MavisJanelle,176,9,0,0,0,0.621212121,0,1
+30,1,8,Graduate,Proffessor,Captive,622,12,92919,89856,9917,114,7,122,4,158,2,6740,-144,5,Low,HymanRory,394,5,4,1,2,0.804709141,2,2
+47,1,16,Graduate,Architect,Captive,642,0,58254,97068,0,98,11,101,0,117,2,7281,-354,3,Medium,BrandiSharlene,326,1,3,0,0,5.272727273,0,1
+57,1,21,Post Graduate,Engineer,Captive,492,9,58973,85633,0,91,8,86,3,100,2,6423,-160,2,High,DomenicHerman,490,7,0,3,1,0.615479115,2,2
+29,1,9,Graduate,Doctor,Captive,540,6,99938,79640,0,64,8,62,2,74,1,5973,-363,5,Low,HarveyMelisa,199,10,2,0,0,0.308788599,1,1
+46,1,24,Post Graduate,Software Developer,Independent,365,10,66061,82776,0,103,11,100,1,129,0,6209,18,4,Medium,VickieMai,644,6,3,2,0,1.070686071,2,2
+33,1,3,Graduate,Doctor,Independent,645,8,85387,77817,0,80,9,82,1,104,0,5837,-354,1,Medium,HymanRory,266,2,3,0,0,0.925170068,0,2
+52,1,2,Graduate,Architect,Independent,444,0,99375,93001,0,72,8,69,4,76,2,6976,-159,5,High,PollyGene,313,8,0,0,1,0.982698962,2,2
+54,1,5,Graduate,Pilot,Captive,590,7,83258,91912,0,64,6,66,1,77,0,6894,-394,2,High,BusterNadia,649,10,0,0,0,0.346733668,2,1
+25,1,5,Post Graduate,Engineer,Captive,302,0,55877,92642,6959,97,7,97,1,109,1,6949,48,3,Medium,MayraAbram,307,2,0,1,3,3.939597315,0,2
+51,1,12,Graduate,Doctor,Captive,156,5,96403,91792,8045,44,10,51,1,61,1,6885,44,4,Medium,YoungMicah,328,9,2,1,2,0.61136891,0,2
+51,2,26,Post Graduate,Driver,Captive,410,7,68254,77903,0,59,11,57,0,87,1,5843,-153,4,High,TracieSasha,202,2,0,1,0,0.411458333,2,2
+44,2,3,Graduate,Software Developer,Independent,244,8,60297,94773,0,78,9,75,4,82,2,7108,-34,1,Medium,MavisJanelle,235,3,0,2,0,0.386178862,0,1
+43,1,11,Graduate,Driver,Captive,262,0,54518,75235,0,43,8,40,1,46,2,5643,-159,4,High,MagdalenaCarmen,129,10,0,0,0,0.793017456,0,1
+22,1,3,Graduate,Software Developer,Captive,451,0,60596,93399,0,40,7,38,0,56,2,7005,-332,3,Medium,MontyBuddy,134,7,0,3,0,0.686728395,1,1
+47,1,15,Post Graduate,Doctor,Independent,263,0,89779,89196,0,87,10,74,2,103,1,6690,65,6,Medium,PrinceWill,279,3,3,0,0,2.439189189,2,2
+44,2,23,Post Graduate,Consultant,Independent,490,0,58616,86008,0,137,7,137,4,216,2,6451,-21,3,High,JohnathanLydia,592,10,0,0,2,1.704615385,3,1
+25,2,5,Graduate,Doctor,Captive,592,13,73595,89738,6414,126,10,130,3,150,1,6731,-102,3,High,MiaMarissa,405,5,4,0,0,0.699879952,0,2
+59,2,9,Graduate,Pensioner,Captive,634,10,62030,95756,0,98,11,95,3,134,0,7182,-396,4,High,AnitaMarshall,641,1,0,3,0,0.868065967,2,1
+24,1,2,Graduate,Doctor,Independent,216,7,86971,84771,0,60,10,67,4,89,1,6358,53,5,High,KristopherRolando,591,1,0,2,1,2.690789474,0,2
+31,1,6,Post Graduate,Architect,Captive,345,0,94886,77025,8191,42,6,48,3,60,1,5777,-251,6,High,AlphonsoTasha,151,4,0,2,0,1.256097561,0,1
+55,1,4,Graduate,Doctor,Independent,141,5,97359,91732,9550,39,6,42,3,59,1,6880,63,4,Medium,LouellaJosue,571,10,0,1,0,0.678308824,0,2
+57,1,4,Graduate,Architect,Captive,398,6,81262,87039,0,48,11,56,4,67,1,6528,-297,1,Medium,DomenicHerman,326,3,0,4,1,0.342685371,0,1
+57,1,1,Post Graduate,Pensioner,Independent,313,6,53692,84567,0,57,7,59,1,68,1,6343,-187,1,High,SpencerJarod,551,3,0,4,0,0.5,0,1
+24,1,3,Graduate,Consultant,Independent,299,0,56256,99770,0,99,7,99,3,102,2,7483,-49,3,High,BusterNadia,373,1,3,0,0,2.214574899,0,1
+52,1,2,Post Graduate,Pilot,Independent,571,0,62032,97256,0,44,6,44,0,69,1,7295,-369,2,Low,DarrylErnie,312,1,0,0,0,1.90797546,0,2
+39,1,20,Graduate,Proffessor,Independent,486,14,56329,93570,0,145,8,127,2,181,1,7018,-13,2,Low,JohnathanLydia,494,4,5,0,0,0.92776886,3,2
+34,2,5,Post Graduate,Pensioner,Captive,416,0,71252,78389,0,88,6,77,1,101,0,5880,-164,4,Low,CasandraPaulette,446,10,0,0,3,1.992537313,0,1
+49,2,13,Graduate,Engineer,Captive,578,8,69464,96942,0,88,7,85,2,93,1,7271,-392,2,Low,DavidLuella,528,9,3,0,1,0.348623853,0,1
+44,2,24,Post Graduate,Pilot,Captive,385,5,82059,99781,8042,44,6,44,4,54,1,7484,-150,5,Low,HymanRory,403,3,0,0,0,1.442080378,0,2
+30,1,6,Graduate,Proffessor,Independent,587,5,50232,98212,0,46,10,41,0,56,1,7366,-346,2,Low,HarveyMelisa,143,8,1,1,0,0.221642764,0,2
+32,1,2,Graduate,Pensioner,Independent,642,5,56860,80474,7387,45,10,45,4,55,2,6036,-500,2,Medium,MayraAbram,144,10,0,5,0,0.559837728,1,1
+60,1,10,Post Graduate,Doctor,Captive,412,7,98341,92286,6534,63,8,68,2,87,0,6922,-157,3,High,DorisTristan,310,8,0,5,0,0.944732297,2,2
+57,1,29,Post Graduate,Software Developer,Captive,284,8,86040,86655,8633,82,6,71,1,102,2,6500,-105,6,Medium,KristopherRolando,504,7,0,3,3,0.561111111,2,1
+43,1,17,Post Graduate,Driver,Captive,284,0,94279,92783,0,52,8,51,4,60,2,6959,-178,1,Medium,ClaudioSherwood,424,2,0,0,0,0.250769231,1,1
+37,1,16,Post Graduate,Proffessor,Captive,361,8,58383,78224,0,80,10,77,2,85,1,5867,-25,4,High,DarrylErnie,582,3,0,0,0,0.675893887,0,2
+27,2,1,Graduate,Pensioner,Captive,468,10,69940,88583,0,91,10,88,3,125,2,6644,-176,4,Low,DavidLuella,550,3,0,2,0,0.371184371,0,1
+53,1,18,Graduate,Business,Independent,343,0,68330,76838,0,42,8,44,3,51,2,5763,-180,5,Medium,VickieMai,467,1,1,1,0,0.318604651,0,2
+38,1,14,Post Graduate,Teacher,Independent,428,13,71702,78453,8537,117,6,125,4,162,2,5884,30,4,Low,HarveyMelisa,551,6,4,0,3,3.516778523,3,2
+38,1,7,Post Graduate,Business,Independent,207,0,67564,95311,7975,58,9,64,1,85,2,7149,50,5,Medium,BusterNadia,514,8,0,1,0,1.242307692,2,2
+40,2,9,Graduate,Pensioner,Captive,539,9,53626,78734,0,88,10,91,2,114,2,5906,-277,2,Medium,YoungMicah,501,5,3,5,0,0.360493827,0,1
+47,1,8,Post Graduate,Pensioner,Captive,360,10,75374,79499,0,109,10,96,4,126,2,5963,-98,5,Medium,MontyBuddy,331,7,3,3,0,2.858064516,0,1
+58,2,30,Graduate,Pensioner,Captive,325,0,66515,80570,8634,91,9,91,4,143,0,6043,-82,2,Medium,LorenzoJohanna,547,10,3,5,1,0.997304582,0,1
+44,1,0,Graduate,Software Developer,Captive,528,0,70479,94932,0,64,6,66,4,90,0,7120,-371,2,Medium,MarcAlec,358,7,2,0,0,0.645985401,2,1
+24,1,6,Post Graduate,Pilot,Independent,170,0,77718,89455,0,56,8,54,1,60,2,6710,-25,3,High,DiegoJane,237,2,0,4,0,0.774368231,0,1
+29,1,2,Post Graduate,Pensioner,Independent,225,7,52958,92123,0,65,11,70,1,90,2,6910,95,6,High,LorenzoJohanna,318,2,0,0,2,1.306763285,2,2
+42,2,10,Post Graduate,Engineer,Independent,181,0,90039,98852,0,56,9,54,1,71,0,7414,50,1,High,KeriLamont,590,3,2,0,1,1.862745098,2,2
+59,1,23,Post Graduate,Architect,Independent,390,5,50785,79908,0,40,11,40,2,62,2,5994,-275,6,Medium,AlphonsoTasha,142,1,0,0,0,0.523216308,0,1
+39,1,4,Graduate,Engineer,Captive,527,0,59410,96233,7647,75,6,73,2,87,1,7218,-350,2,Medium,BillyJerry,577,4,2,1,0,0.389207807,0,1
+24,2,1,Post Graduate,Pilot,Independent,139,0,87609,97817,0,39,8,43,0,57,0,7337,53,5,High,CasandraPaulette,313,3,0,1,1,0.630841121,0,2
+51,1,22,Post Graduate,Doctor,Independent,625,0,98917,92779,0,38,7,42,0,51,2,6959,-471,6,Low,MontyBuddy,528,7,0,0,0,0.451923077,1,2
+42,1,5,Graduate,Pilot,Independent,159,5,98314,80009,5667,52,10,49,2,57,1,6001,-97,5,Medium,DarrylErnie,415,2,0,0,0,0.591036415,0,1
+47,1,5,Post Graduate,Software Developer,Independent,352,0,61322,89540,8108,100,8,91,1,133,0,6716,-37,1,Medium,ClaudioSherwood,324,9,0,0,1,1.050704225,0,1
+56,1,29,Graduate,Teacher,Captive,173,0,58380,84352,9682,55,9,52,2,66,2,6327,22,2,High,MiaMarissa,391,10,0,1,0,1.657534247,2,2
+23,1,3,Graduate,Architect,Independent,180,6,99016,77862,8218,54,9,54,1,72,0,5840,-95,4,High,WilburErnestine,510,3,0,2,0,0.712778429,0,1
+55,1,26,Post Graduate,Engineer,Captive,203,7,96442,95036,0,57,9,63,3,83,1,7128,34,5,Low,BillyJerry,295,3,2,0,1,0.540612517,2,2
+38,1,1,Post Graduate,Business,Independent,342,0,84444,92607,0,83,6,85,1,91,1,6946,-111,6,Medium,AmyShaun,393,1,3,3,1,0.753642384,2,1
+38,2,17,Post Graduate,Doctor,Independent,632,6,52386,91969,5989,58,10,60,2,64,2,6898,-459,3,Low,DomenicHerman,249,9,0,5,0,0.220072551,1,1
+31,1,6,Graduate,Pilot,Captive,280,9,55581,88533,0,91,6,80,2,105,2,6640,-4,4,Low,LouellaJosue,276,4,0,4,3,0.697156984,0,1
+28,1,10,Post Graduate,Proffessor,Independent,593,0,62369,80624,7218,72,9,74,3,78,1,6047,-280,5,Low,MiaMarissa,599,4,0,3,0,0.843347639,0,2
+34,1,6,Graduate,Pilot,Independent,539,0,86805,78622,0,62,6,58,4,87,0,5897,-402,2,Medium,MagdalenaCarmen,206,6,2,1,0,0.94041868,0,1
+25,1,5,Graduate,Teacher,Captive,417,4,50497,97327,7341,40,10,42,3,46,2,7300,-319,5,Medium,LoreneIsiah,221,7,0,0,1,0.612429379,1,1
+52,1,3,Graduate,Pensioner,Independent,610,12,53305,90274,5063,108,11,116,3,163,0,6771,-162,2,Low,SpencerJarod,545,4,0,0,0,1.438888889,2,2
+33,1,5,Post Graduate,Proffessor,Independent,455,8,73878,81466,0,86,6,84,4,92,2,6110,-241,1,High,MavisJanelle,459,8,3,5,2,0.552023121,2,1
+22,1,3,Graduate,Pilot,Captive,567,5,79270,84945,0,51,6,43,1,60,2,6371,-360,6,Medium,DarrylErnie,155,7,0,0,0,0.458015267,1,2
+24,1,4,Graduate,Pilot,Captive,280,0,74383,95717,6226,65,9,65,1,86,0,7179,-125,1,Low,DwightNeva,371,6,0,0,1,1.44295302,0,1
+52,1,20,Post Graduate,Doctor,Independent,145,5,51418,88468,8317,45,10,41,4,59,0,6636,-29,3,Low,AmyShaun,587,5,1,0,0,1.421052632,3,1
+23,1,5,Post Graduate,Architect,Independent,319,0,92951,75682,0,55,10,60,0,80,0,5677,-155,4,Medium,AhmedMisty,195,3,2,5,0,1.081936685,1,1
+57,1,27,Graduate,Software Developer,Independent,475,0,63307,85997,0,62,10,69,0,91,1,6450,-289,2,Medium,DebraCollin,223,1,2,3,0,1.352941176,2,1
+25,2,3,Post Graduate,Business,Captive,509,6,71372,83764,7947,55,8,60,2,68,1,6283,-370,5,Low,JudyAlden,433,8,0,3,1,0.515492958,0,1
+57,1,30,Post Graduate,Software Developer,Captive,245,0,53189,99948,6417,71,11,69,2,76,0,7497,13,3,High,HarveyMelisa,552,7,0,1,0,0.271698113,0,2
+24,1,4,Post Graduate,Driver,Captive,308,0,89956,87840,8842,95,7,95,0,117,1,6588,-90,1,High,TwilaBradley,388,7,3,3,0,3.023584906,2,1
+44,1,16,Graduate,Architect,Independent,147,0,82314,94236,0,41,11,47,1,59,2,7068,58,4,High,DarrylErnie,492,2,1,4,1,0.907815631,3,2
+37,1,9,Graduate,Proffessor,Independent,621,0,95545,99990,0,45,9,48,3,52,2,7500,-387,4,Low,RobertoJeremy,144,8,1,0,0,0.410958904,1,2
+50,1,2,Post Graduate,Proffessor,Captive,496,0,51534,88301,7022,36,6,38,3,47,1,6623,-412,1,Low,MiaMarissa,344,10,1,0,0,1.140510949,0,1
+60,1,20,Post Graduate,Doctor,Independent,602,0,78688,93945,0,66,6,61,4,85,1,7046,-302,4,Medium,MiaMarissa,439,6,0,0,0,1.408695652,0,2
+23,1,0,Post Graduate,Pensioner,Independent,431,13,76465,77597,8884,142,7,142,1,147,2,5820,77,4,Low,TwilaBradley,471,4,4,4,3,0.589473684,3,2
+23,2,1,Graduate,Pensioner,Captive,568,0,61492,76929,0,118,6,107,1,132,0,5770,-276,3,Low,WilburErnestine,529,6,0,0,1,0.43236715,2,1
+45,2,26,Graduate,Pilot,Captive,127,4,62741,90758,0,41,6,41,0,46,2,6807,37,2,Low,ClaudioSherwood,334,5,1,0,0,0.789473684,2,2
+27,1,1,Graduate,Engineer,Captive,286,0,60247,99430,0,67,10,67,4,69,1,7458,-141,3,High,PollyGene,202,9,0,2,1,1.00811359,2,1
+46,2,10,Graduate,Driver,Independent,577,9,94263,81484,7129,78,11,80,0,110,2,6112,-247,2,Medium,ChandraDante,280,6,0,4,0,1.41959799,0,2
+30,1,12,Graduate,Consultant,Independent,301,0,51439,76053,0,99,11,96,0,105,1,5704,85,1,High,PrinceWill,525,2,0,5,1,2.420454545,0,2
+48,1,1,Post Graduate,Consultant,Independent,372,0,91171,92286,8746,59,9,59,3,93,2,6922,-74,5,High,DarrylErnie,618,9,2,4,0,0.334920635,2,2
+29,1,8,Post Graduate,Engineer,Captive,195,0,93970,85996,5937,64,8,64,1,66,0,6450,-57,5,Medium,MarcAlec,494,8,0,0,0,0.391304348,0,1
+27,1,4,Graduate,Engineer,Independent,229,0,67689,76829,6148,71,9,71,0,87,1,5763,68,2,Medium,YoungMicah,265,10,0,4,0,0.725925926,0,2
+29,2,4,Graduate,Pilot,Captive,256,8,69687,90053,8719,82,11,84,0,90,1,6754,-24,6,High,RobertoJeremy,361,5,0,0,3,0.653021442,2,1
+53,1,3,Post Graduate,Pilot,Captive,292,5,57230,97006,0,42,11,39,3,54,0,7276,-130,4,Low,HymanRory,516,8,0,4,0,0.707089552,0,2
+28,1,5,Graduate,Proffessor,Independent,518,8,54132,98719,0,75,7,83,3,101,2,7404,-316,1,High,ClaudioSherwood,582,9,3,0,0,0.494296578,0,1
+59,1,16,Graduate,Teacher,Captive,354,0,88472,75111,8843,61,7,55,0,68,1,5634,-268,3,High,MarcAlec,255,8,0,0,0,0.764044944,0,1
+37,2,15,Graduate,Business,Captive,528,6,69534,84748,5764,60,7,51,2,71,2,6357,-257,5,High,DebraCollin,533,3,0,0,1,1.185294118,0,2
+56,1,34,Graduate,Proffessor,Independent,199,0,73239,84721,5682,51,7,49,0,59,0,6355,-131,1,Low,MagdalenaCarmen,159,10,0,0,0,0.387459807,1,1
+43,1,24,Post Graduate,Proffessor,Captive,434,0,92669,98098,6435,90,6,93,0,128,2,7358,-162,1,Low,DeandreAimee,515,2,0,0,2,0.79093199,0,1
+54,2,10,Post Graduate,Pilot,Independent,160,5,97762,86015,5795,45,10,48,2,67,2,6452,-8,2,High,BillyJerry,624,5,2,1,0,1.037623762,2,1
+50,1,14,Post Graduate,Consultant,Captive,260,8,95158,91561,9106,78,6,83,0,99,0,6868,27,5,High,LorenzoJohanna,636,2,0,0,0,0.990272374,0,2
+42,1,10,Graduate,Engineer,Captive,584,0,99124,86286,9712,39,10,39,3,48,2,6472,-358,1,High,PabloChelsea,126,6,0,1,0,0.180481283,0,2
+22,1,2,Post Graduate,Consultant,Independent,185,0,94855,80399,0,56,8,54,1,76,2,6030,-84,5,Medium,LorenzoJohanna,417,3,0,4,0,0.904555315,0,1
+42,2,16,Post Graduate,Pilot,Independent,334,5,99931,75206,0,45,9,44,0,48,1,5641,-243,3,High,DavidLuella,137,9,0,5,1,0.288888889,1,1
+50,2,17,Graduate,Architect,Independent,273,0,61065,76230,0,48,7,48,0,69,2,5718,-73,4,High,AlphonsoTasha,359,6,0,0,0,0.546357616,1,2
+46,1,14,Post Graduate,Doctor,Independent,402,0,58775,80017,0,75,7,83,0,101,1,6002,-93,1,Medium,DarrylErnie,567,1,3,2,1,0.691489362,2,2
+35,1,1,Graduate,Engineer,Captive,549,8,52066,97891,0,67,7,72,1,101,0,7342,-276,1,Medium,BillyJerry,494,10,0,5,0,1.110599078,0,2
+27,1,2,Graduate,Doctor,Captive,620,8,57763,87430,8460,83,10,78,1,99,2,6558,-313,4,Low,JacquelynLonny,260,2,0,3,0,1.875389408,0,2
+27,1,9,Graduate,Driver,Captive,375,0,74151,99396,7052,46,9,46,3,47,1,7455,-286,6,Medium,MiaMarissa,139,6,0,0,0,1.521963824,1,1
+44,1,0,Post Graduate,Driver,Independent,637,4,96680,92244,0,40,10,36,1,44,2,6919,-443,1,High,PrinceWill,333,3,0,0,0,0.154241645,0,2
+20,1,0,Graduate,Driver,Captive,164,0,83178,88222,5302,43,6,39,1,57,1,6617,74,4,High,RobertoJeremy,140,2,0,2,0,0.927536232,1,2
+36,1,3,Graduate,Consultant,Independent,252,0,64390,76503,0,71,10,76,0,106,2,5738,-16,2,Low,KristopherRolando,404,3,0,2,1,0.430463576,2,1
+54,1,31,Graduate,Teacher,Captive,543,4,56332,84107,7917,44,9,40,0,49,2,6309,-452,1,Low,KimberlyCasandra,500,6,0,5,0,0.185393258,1,1
+44,1,25,Graduate,Pilot,Independent,275,6,79157,90599,0,54,6,49,3,66,2,6795,-59,5,Medium,MavisJanelle,282,8,0,0,0,0.869662921,1,2
+59,1,23,Post Graduate,Architect,Independent,336,0,96025,80570,8137,59,9,57,3,68,2,6043,-89,2,Low,AhmedMisty,200,10,0,0,0,0.284603421,1,2
+33,1,12,Post Graduate,Driver,Captive,226,7,84095,98068,8517,58,7,62,2,87,2,7356,-68,3,Medium,DorisTristan,207,10,2,0,0,0.640977444,2,1
+46,2,12,Post Graduate,Engineer,Captive,578,9,57065,83858,0,94,9,86,0,115,2,6290,-245,4,Medium,PrinceWill,295,4,0,1,0,1.046025105,2,2
+33,1,7,Graduate,Architect,Independent,523,0,77204,85213,6061,58,7,54,1,81,0,6391,-281,4,High,SpencerJarod,192,2,2,0,0,0.587912088,0,2
+28,1,7,Post Graduate,Driver,Captive,414,10,55134,77149,5437,90,6,93,3,138,0,5787,-136,1,Low,DiegoJane,605,7,3,0,2,0.802005013,2,1
+52,1,30,Post Graduate,Business,Independent,446,0,55745,93981,5544,84,7,87,2,129,0,7049,-99,3,Medium,MarcAlec,300,6,0,0,0,2.387559809,0,2
+48,2,11,Graduate,Teacher,Independent,361,5,99913,92618,0,41,6,40,3,61,1,6947,-124,5,Low,PrinceWill,440,9,0,5,0,0.660377358,0,2
+30,1,8,Graduate,Doctor,Independent,183,6,87939,83106,0,51,7,60,1,71,0,6233,22,3,Low,MontyBuddy,350,2,0,4,1,3.620155039,0,2
+52,2,10,Post Graduate,Software Developer,Captive,324,0,69058,96015,0,100,10,97,2,126,0,7202,-12,2,High,KimberlyCasandra,497,7,0,2,3,1.133550489,2,1
+47,1,9,Graduate,Driver,Captive,535,5,77589,82232,0,41,8,43,4,58,0,6168,-334,6,High,JacquelynLonny,315,8,1,5,1,0.931868132,0,2
+55,1,34,Graduate,Software Developer,Independent,594,0,71122,98858,0,88,8,96,0,108,1,7415,-260,5,Medium,AmyShaun,397,2,0,4,0,1.303738318,0,2
+56,2,3,Post Graduate,Teacher,Captive,142,0,57283,90630,7827,41,9,40,1,61,2,6798,-87,3,High,AnitaMarshall,193,7,1,2,0,1.610126582,0,1
+38,1,18,Graduate,Driver,Captive,334,0,93554,99799,7357,74,11,82,0,108,1,7485,-41,5,Medium,KeriLamont,325,5,3,0,0,0.657407407,2,2
+42,1,20,Post Graduate,Pilot,Captive,326,0,66100,88643,6585,48,8,45,1,57,0,6649,-148,4,Low,MyronPhil,335,1,0,4,1,0.453313253,1,2
+42,1,9,Post Graduate,Business,Independent,505,8,64516,76170,5975,74,7,81,4,91,0,5713,-313,3,Low,AmyShaun,604,4,0,0,1,1.940074906,2,1
+54,1,9,Graduate,Architect,Captive,325,0,57720,78554,0,39,11,39,3,44,1,5892,-293,3,Medium,MarcAlec,121,6,0,3,0,1.837988827,0,1
+39,1,15,Graduate,Driver,Independent,617,0,61269,75346,9274,78,11,81,2,120,0,5651,-343,2,Low,MarcAlec,578,3,0,4,0,4.306666667,2,1
+58,2,38,Graduate,Engineer,Captive,172,0,88655,90085,9322,52,8,50,3,71,0,6757,-27,1,Low,DeandreAimee,252,1,0,2,1,0.513870542,2,1
+52,1,5,Graduate,Proffessor,Captive,342,11,91299,95804,0,96,7,113,1,133,2,7186,79,5,Low,DwightNeva,607,7,0,0,0,0.813653137,0,2
+53,1,34,Graduate,Teacher,Independent,603,0,65431,80727,9676,48,8,43,1,58,0,6055,-389,5,Low,AlphonsoTasha,482,8,0,5,0,0.22172619,0,2
+48,1,18,Graduate,Pilot,Independent,183,0,83889,86277,7755,58,11,51,3,72,0,6471,36,1,Low,JannaArden,473,6,0,5,0,0.708333333,1,2
+30,1,6,Post Graduate,Teacher,Captive,377,4,89264,86804,5726,38,10,38,4,46,1,6511,-212,4,Medium,DarrylErnie,122,5,1,2,0,0.207286432,1,2
+29,2,2,Graduate,Consultant,Independent,281,0,62221,94084,0,87,8,81,3,112,0,7057,68,4,High,MarionPablo,562,8,0,0,3,1.52972973,0,2
+32,1,13,Post Graduate,Driver,Independent,639,0,63103,82211,5604,142,9,147,0,185,1,6166,-132,6,Low,MontyBuddy,590,4,5,0,0,1.722222222,0,2
+41,2,5,Post Graduate,Proffessor,Independent,246,5,73013,95993,9214,42,6,45,1,49,2,7200,-155,1,Low,KeriLamont,135,9,0,2,1,0.325387366,0,1
+31,2,10,Post Graduate,Pilot,Independent,429,5,85663,76121,0,45,6,53,3,63,2,5710,-198,6,Medium,MarcAlec,404,2,2,2,0,1.802768166,0,2
+43,1,11,Post Graduate,Proffessor,Independent,206,5,64692,76656,8161,52,11,44,4,62,1,5750,9,5,Medium,VickieMai,158,1,0,2,0,1.168560606,0,2
+53,1,27,Graduate,Business,Captive,577,0,60243,88313,0,100,8,110,4,123,2,6624,-188,4,High,DavidLuella,344,5,0,0,0,0.47195122,2,2
+35,2,6,Graduate,Business,Independent,162,5,94778,96417,0,53,11,53,0,55,2,7232,-84,2,Low,CasandraPaulette,164,6,0,0,0,1.729166667,1,1
+48,1,29,Graduate,Software Developer,Captive,559,6,81583,97066,0,59,7,55,1,70,2,7280,-343,5,Medium,BrandiSharlene,522,4,0,1,0,0.413997628,1,2
+28,1,2,Graduate,Teacher,Captive,235,8,87066,86027,9258,68,6,66,0,101,0,6453,-78,6,Low,JannaArden,442,3,0,4,2,1.18,0,1
+47,1,13,Graduate,Pensioner,Captive,161,0,92380,97008,0,53,10,45,4,63,0,7276,91,3,Low,PabloChelsea,406,10,2,0,0,0.274846626,0,2
+34,2,2,Post Graduate,Business,Captive,579,0,83507,79373,0,56,7,56,0,88,2,5953,-358,1,Low,PabloChelsea,199,5,0,0,0,1.0176,1,2
+42,2,15,Post Graduate,Pensioner,Captive,199,0,71389,84879,0,40,11,41,1,56,2,6366,-110,5,Medium,MiaMarissa,315,8,0,3,1,0.152222222,1,1
+40,1,22,Post Graduate,Architect,Independent,445,5,84115,77703,0,51,9,54,4,59,2,5828,-186,3,High,MagdalenaCarmen,178,2,2,5,0,1.234848485,1,2
+25,1,1,Graduate,Pilot,Captive,424,0,71284,93651,9077,136,8,136,2,153,2,7024,-60,5,Medium,MontyBuddy,540,3,4,2,0,0.675837321,0,1
+29,1,0,Post Graduate,Teacher,Captive,416,0,50121,88783,6806,111,7,111,1,161,0,6659,12,4,High,LorenzoJohanna,449,3,0,0,0,3.027472527,0,2
+44,1,4,Post Graduate,Pilot,Captive,368,0,52809,79133,0,97,7,91,1,126,1,5935,-97,5,High,MyronPhil,522,9,0,2,1,0.646090535,2,1
+47,2,17,Graduate,Engineer,Independent,166,0,75099,86351,8232,55,11,55,2,56,2,6477,-93,1,High,MickeyMargret,499,4,2,0,1,0.673410405,2,1
+31,1,4,Post Graduate,Software Developer,Independent,436,0,98164,77423,6128,83,6,70,1,98,0,5807,-278,4,Low,DebraCollin,525,8,0,1,0,0.963172805,0,1
+47,1,16,Post Graduate,Pilot,Captive,192,6,66689,80784,0,60,11,63,3,69,1,6059,80,4,High,SpencerJarod,264,3,0,0,1,0.310588235,0,2
+59,1,33,Graduate,Consultant,Captive,265,8,90233,86313,0,82,11,82,4,101,2,6474,100,1,Medium,LoreneIsiah,650,1,3,5,1,3.748201439,0,2
+34,2,7,Post Graduate,Business,Independent,197,6,53000,99140,8725,61,10,57,2,79,1,7436,-40,5,Medium,BillyJerry,575,3,2,2,0,1.894736842,2,1
+35,1,13,Graduate,Proffessor,Captive,478,0,81255,98930,0,91,8,82,1,111,0,7420,-116,4,Medium,MavisJanelle,520,4,0,2,0,4.448,0,2
+24,1,3,Post Graduate,Proffessor,Captive,556,0,90232,97369,7608,57,6,57,1,90,1,7303,-428,6,High,DomenicHerman,205,5,0,2,0,1.491686461,0,1
+44,1,19,Post Graduate,Software Developer,Captive,235,0,84625,82648,9941,78,9,71,2,87,1,6199,91,4,Low,DorisTristan,299,4,0,3,0,0.733742331,0,2
+22,1,3,Post Graduate,Pensioner,Captive,496,0,64691,98335,5722,38,6,37,3,48,2,7376,-328,2,High,JohnathanLydia,308,3,0,4,0,0.708542714,0,2
+37,1,8,Post Graduate,Engineer,Independent,630,10,56225,95521,0,106,11,99,1,115,1,7165,-227,3,Medium,MyronPhil,574,8,0,1,0,0.548156956,2,2
+39,1,16,Post Graduate,Driver,Independent,494,5,63863,92018,8409,52,9,46,3,66,0,6902,-373,4,Low,RobertoJeremy,470,3,2,3,1,1.29424307,0,1
+44,1,12,Post Graduate,Pilot,Independent,572,7,95130,98779,0,77,8,72,0,84,1,7409,-295,4,Low,DomenicHerman,602,6,0,3,0,1.1,0,2
+30,1,4,Graduate,Business,Independent,138,5,92364,79227,5214,46,7,46,1,47,1,5943,28,3,Low,DavidLuella,480,10,0,0,0,0.416666667,0,2
+24,1,6,Post Graduate,Doctor,Captive,445,0,60886,77279,0,123,11,140,0,161,1,5796,34,2,Low,MayraAbram,641,5,4,2,3,0.532482599,3,2
+22,1,1,Post Graduate,Business,Captive,156,0,97785,99098,9243,45,6,48,2,62,2,7433,92,2,Medium,KristopherRolando,353,3,2,3,0,0.240853659,0,2
+47,1,16,Post Graduate,Pilot,Captive,472,0,69702,89588,0,122,8,114,4,144,0,6720,-3,2,Medium,JacquelynLonny,550,2,4,5,0,0.783180026,0,2
+49,1,14,Post Graduate,Consultant,Independent,399,12,60888,88313,0,130,8,114,0,150,0,6624,93,1,Medium,PrinceWill,394,6,4,0,1,0.741518578,0,2
+60,1,36,Graduate,Business,Independent,198,0,96394,95103,0,41,6,43,3,51,1,7133,-8,6,Medium,MyronPhil,303,4,1,0,0,0.17578125,1,2
+20,2,1,Graduate,Driver,Independent,482,0,55248,78949,0,64,10,59,4,82,2,5922,-242,6,Medium,WilburErnestine,478,2,2,0,0,0.962441315,0,2
+60,1,7,Post Graduate,Pilot,Independent,262,0,59916,77774,0,86,8,79,1,97,0,5834,37,3,High,DomenicHerman,615,10,0,4,1,0.998327759,0,2
+26,1,6,Post Graduate,Teacher,Independent,321,0,63792,82266,8106,41,9,42,4,45,1,6170,-237,3,High,DeandreAimee,188,6,0,3,0,1.135371179,0,1
+40,1,2,Graduate,Teacher,Captive,644,9,84209,84943,0,92,6,90,2,98,2,6371,-462,5,High,JannaArden,282,6,0,0,3,0.469798658,2,1
+59,2,37,Post Graduate,Driver,Independent,277,8,96331,96192,0,82,9,74,4,109,1,7215,58,5,Medium,KeriLamont,266,9,0,1,0,0.300111982,2,2
+57,1,1,Graduate,Consultant,Captive,477,15,52928,91071,0,138,10,157,2,181,0,6831,-88,5,Low,BillyJerry,595,2,5,1,4,1.001941748,0,1
+50,1,16,Post Graduate,Software Developer,Independent,292,0,63827,83306,5464,48,10,50,4,53,1,6248,-218,5,Low,JohnathanLydia,151,2,2,1,0,1.329326923,1,1
+45,1,21,Graduate,Driver,Captive,266,0,55424,88061,0,77,8,72,1,108,2,6605,47,2,High,DomenicHerman,514,1,0,0,0,0.523880597,0,2
+34,1,4,Post Graduate,Pilot,Independent,445,11,88616,87040,0,108,6,105,0,125,2,6528,-132,6,High,CasandraPaulette,338,6,0,0,0,0.7109375,2,1
+21,1,1,Graduate,Driver,Captive,533,0,72081,78676,0,82,6,84,2,98,0,5901,-328,2,Medium,VickieMai,361,7,0,4,1,0.763922518,0,1
+59,1,32,Post Graduate,Architect,Independent,374,7,87990,90423,7824,72,10,72,1,88,1,6782,-152,5,Low,MiaMarissa,340,3,0,0,0,0.804832714,0,1
+29,1,7,Post Graduate,Architect,Independent,156,5,50159,93315,0,45,7,51,2,59,2,6999,87,6,Medium,BrandiSharlene,572,10,0,5,0,0.649321267,0,2
+28,1,8,Post Graduate,Engineer,Independent,206,0,86730,91015,0,44,10,45,1,57,2,6827,28,2,Low,KimberlyCasandra,459,6,0,1,0,0.257092199,0,2
+44,1,20,Graduate,Doctor,Independent,197,5,81813,95522,8454,43,7,39,3,52,1,7165,-140,4,High,HymanRory,541,3,0,4,0,0.617511521,0,1
+27,1,6,Post Graduate,Architect,Captive,508,0,86348,93666,0,79,10,79,3,114,2,7025,-145,2,Medium,DebraCollin,321,5,0,3,2,0.555555556,0,2
+45,1,21,Post Graduate,Architect,Independent,577,9,54800,87685,6976,78,11,78,3,113,0,6577,-216,2,Medium,PollyGene,458,7,3,5,1,0.76056338,0,2
+25,1,3,Graduate,Business,Captive,355,0,67568,86930,6640,60,7,60,2,74,2,6520,-252,4,High,MagdalenaCarmen,440,7,2,0,0,0.220838052,0,1
+26,2,6,Graduate,Software Developer,Captive,539,0,67044,81259,0,88,10,93,3,102,2,6095,-210,5,Low,JohnathanLydia,456,6,0,0,2,3.255172414,0,2
+31,2,2,Post Graduate,Business,Captive,489,4,88909,75884,0,42,11,41,3,49,0,5692,-434,1,Medium,KeriLamont,262,3,1,0,1,0.812351544,1,1
+21,1,2,Post Graduate,Engineer,Captive,133,4,93608,92347,7210,41,11,39,3,53,0,6927,63,5,High,PrinceWill,272,10,1,0,1,0.95503876,2,2
+35,1,16,Post Graduate,Teacher,Captive,429,6,71383,79689,0,52,7,57,1,70,0,5977,-200,5,Low,DomenicHerman,544,6,2,0,0,0.69379845,0,2
+31,2,8,Graduate,Teacher,Captive,531,0,52616,96305,0,41,9,46,1,60,1,7223,-475,2,High,BillyJerry,147,10,1,0,0,3.134831461,1,1
+53,2,30,Graduate,Engineer,Independent,423,5,50091,88995,9014,48,8,52,0,64,2,6675,-232,6,Medium,VickieMai,421,10,0,0,0,0.840803709,1,2
+36,1,3,Post Graduate,Driver,Captive,125,0,58481,90221,0,41,7,40,1,44,0,6767,-30,6,High,DwightNeva,600,1,0,2,0,2.152317881,0,1
+48,1,5,Graduate,Consultant,Captive,334,7,84322,93930,0,63,6,59,3,82,1,7045,-208,3,Medium,DomenicHerman,247,3,0,0,0,0.249388753,2,1
+42,1,6,Graduate,Consultant,Independent,580,5,83326,88835,6384,50,9,47,3,60,2,6663,-373,5,Low,SpencerJarod,196,5,2,0,1,3.255102041,0,2
+28,1,4,Post Graduate,Pensioner,Independent,555,9,95233,98364,9597,91,11,82,2,111,0,7378,-177,2,Medium,DebraCollin,284,8,3,3,1,2.10373444,2,2
+29,1,2,Post Graduate,Driver,Independent,229,7,66701,75963,0,64,6,64,2,101,1,5698,78,4,High,PollyGene,502,9,0,0,1,0.452981651,0,2
+32,2,6,Post Graduate,Architect,Captive,283,6,97696,82004,0,50,6,55,4,62,2,6151,-62,4,Low,ClaudioSherwood,631,2,0,0,0,1.031021898,1,2
+43,1,10,Post Graduate,Business,Captive,131,0,57079,91457,0,43,9,41,1,47,1,6860,-5,2,Medium,VickieMai,427,10,0,4,0,0.512077295,0,1
+44,2,5,Post Graduate,Driver,Captive,286,0,84003,99031,0,92,10,94,0,100,0,7428,44,4,Low,MavisJanelle,539,2,0,1,1,0.74148802,0,2
+28,1,5,Post Graduate,Engineer,Captive,298,6,72704,91899,7212,51,7,55,2,76,2,6893,-34,5,Low,CasandraPaulette,484,3,0,3,0,0.40037594,1,2
+41,1,22,Graduate,Business,Captive,589,5,83366,75922,8508,42,9,44,0,50,0,5695,-354,5,Low,TwilaBradley,490,2,1,2,0,0.896057348,0,2
+24,2,5,Graduate,Pensioner,Captive,615,4,54976,98641,7500,36,7,40,0,52,0,7399,-424,1,High,DebraCollin,128,10,0,0,1,0.479004666,1,2
+52,2,34,Post Graduate,Consultant,Independent,163,5,72679,86524,0,54,11,54,3,55,1,6490,-33,6,High,LouellaJosue,310,9,2,2,1,0.741452991,2,1
+47,1,18,Post Graduate,Architect,Independent,130,4,55168,79450,5135,42,8,38,4,51,2,5959,95,2,Medium,JacquelynLonny,163,6,1,4,0,0.5,1,2
+52,1,27,Post Graduate,Engineer,Independent,480,0,78495,77522,0,58,8,60,4,75,2,5815,-292,1,Medium,BusterNadia,192,5,0,4,0,1.004643963,0,1
+22,1,3,Graduate,Driver,Independent,276,0,84298,92845,9414,50,9,51,2,76,1,6964,-150,4,Low,MayraAbram,221,3,0,0,0,0.389010989,0,1
+28,1,6,Post Graduate,Proffessor,Captive,569,8,56623,75033,6564,81,7,81,3,91,2,5628,-349,6,High,MiaMarissa,253,8,0,1,2,2.67219917,0,1
+45,1,19,Post Graduate,Pensioner,Independent,218,0,97723,86229,0,65,6,61,4,92,0,6468,70,4,High,MiaMarissa,616,6,0,0,0,1.078034682,2,2
+48,1,18,Post Graduate,Architect,Independent,550,4,57123,89365,0,35,6,38,0,48,0,6703,-507,5,Medium,HymanRory,121,4,0,4,0,1.173038229,1,1
+36,1,17,Graduate,Pilot,Independent,440,0,61364,89219,0,87,8,93,4,120,1,6692,-70,4,High,MyronPhil,301,4,0,0,0,0.812765957,2,2
+59,1,7,Graduate,Business,Independent,450,9,75185,78580,8040,89,6,81,0,108,1,5894,-100,2,High,AmyShaun,296,2,0,3,1,0.708860759,0,2
+51,2,22,Post Graduate,Consultant,Captive,172,0,71974,84487,0,57,10,52,1,64,0,6337,-63,1,Low,JacquelynLonny,428,3,2,3,2,0.823909532,0,1
+49,1,11,Post Graduate,Pilot,Independent,314,10,92086,97444,8896,95,11,92,2,120,2,7309,53,1,Medium,HymanRory,526,10,3,0,0,0.673960613,2,2
+55,1,1,Post Graduate,Doctor,Captive,568,6,73703,84260,0,60,6,58,2,70,1,6320,-341,4,High,JudyAlden,390,9,2,0,1,1.422121896,1,2
+44,2,10,Graduate,Doctor,Captive,208,6,78123,93262,0,53,8,57,0,79,0,6995,-32,3,Low,TwilaBradley,189,8,2,2,0,0.985553772,0,1
+21,1,1,Graduate,Consultant,Captive,151,0,88821,88764,7319,44,8,47,0,60,1,6658,78,2,Low,KeriLamont,436,8,2,1,1,1.245700246,0,2
+26,1,2,Graduate,Teacher,Independent,610,0,52830,92530,0,91,11,97,2,106,2,6940,-264,4,Medium,TracieSasha,571,2,0,5,2,0.605527638,2,2
+57,1,7,Graduate,Architect,Independent,476,0,56198,90525,0,63,8,57,3,77,2,6790,-322,2,Medium,RobertoJeremy,198,5,2,5,0,1.264916468,0,1
+42,1,0,Post Graduate,Engineer,Captive,527,0,72384,90401,7525,53,10,53,4,71,2,6781,-443,2,Medium,KristopherRolando,233,9,2,0,0,0.197104677,1,1
+57,2,36,Post Graduate,Consultant,Independent,615,6,90034,92467,0,52,11,55,1,71,0,6936,-380,6,Low,JacquelynLonny,310,8,0,0,0,0.820276498,0,2
+59,1,29,Post Graduate,Business,Independent,267,0,55838,95861,6462,46,7,45,0,63,2,7190,-82,1,High,MiaMarissa,448,8,2,4,0,0.582629674,0,2
+36,2,6,Post Graduate,Engineer,Captive,324,0,79185,79611,0,50,9,43,2,62,0,5971,-115,2,High,KeriLamont,622,1,0,0,2,0.188106796,1,2
+58,2,18,Post Graduate,Architect,Captive,136,5,82095,96388,7326,41,6,45,4,50,0,7230,-62,4,Low,AdrienneElliott,380,10,0,4,0,0.893376414,2,1
+45,2,7,Post Graduate,Pensioner,Independent,179,0,85943,92423,9651,42,9,45,3,63,1,6932,69,4,Medium,BusterNadia,353,1,0,0,0,1.027210884,1,2
+53,1,31,Graduate,Architect,Captive,479,7,66030,94170,7251,60,8,60,4,94,2,7063,-339,2,Medium,PabloChelsea,221,3,0,4,0,0.241534989,0,1
+47,2,3,Graduate,Business,Independent,633,0,59814,76937,0,66,7,66,3,104,0,5771,-307,2,High,JannaArden,548,9,2,1,0,0.272727273,2,2
+44,1,8,Post Graduate,Software Developer,Independent,468,0,83852,91527,7553,71,11,76,4,106,2,6865,-316,1,Low,ClaudioSherwood,252,1,0,5,0,0.352,0,1
+47,1,3,Post Graduate,Consultant,Independent,608,13,94014,97953,0,125,8,125,2,166,0,7347,-164,1,High,BrandiSharlene,415,7,4,4,0,0.622146119,3,2
+53,2,11,Post Graduate,Proffessor,Captive,286,0,69675,89795,6058,44,7,50,4,63,0,6735,-198,6,Medium,PrinceWill,399,1,0,0,0,0.431318681,0,1
+46,1,18,Post Graduate,Business,Independent,510,9,50221,96274,7263,91,7,82,4,111,0,7221,-174,6,High,KeriLamont,358,1,0,0,1,2.825688073,0,2
+22,2,2,Graduate,Pilot,Independent,307,10,81472,95547,0,92,6,86,1,129,2,7167,79,4,Medium,DeandreAimee,397,8,0,0,0,2.222727273,2,2
+21,2,2,Post Graduate,Proffessor,Captive,617,0,86517,76184,7734,69,9,67,4,95,2,5714,-397,6,Low,MavisJanelle,589,7,2,3,1,0.885017422,2,1
+34,2,7,Graduate,Pilot,Independent,219,7,85043,93864,0,68,8,72,3,79,2,7040,69,2,Medium,AlphonsoTasha,419,10,0,0,0,2.752212389,3,2
+27,1,1,Graduate,Pilot,Independent,465,0,92778,78119,0,64,6,66,0,70,0,5859,-348,1,High,BusterNadia,271,3,0,4,1,0.512886598,0,1
+29,1,5,Post Graduate,Pensioner,Independent,499,0,85311,76483,7739,57,8,63,1,77,2,5737,-231,2,Medium,RobertoJeremy,548,9,0,0,0,0.34137931,1,2
+22,1,0,Graduate,Architect,Captive,408,4,85244,90807,8438,38,7,35,4,48,0,6811,-376,5,High,BrandiSharlene,455,5,0,5,1,2.86407767,1,1
+31,1,2,Graduate,Software Developer,Captive,633,8,96699,85968,5644,74,6,81,1,91,2,6448,-319,1,Low,AhmedMisty,245,10,0,4,0,1.293729373,2,2
+58,2,3,Graduate,Driver,Captive,379,9,82006,84612,8164,85,9,82,2,107,1,6346,-43,1,Medium,AmyShaun,274,7,0,3,2,0.639275766,0,2
+50,1,7,Graduate,Business,Captive,229,0,64022,83703,5641,76,8,66,3,87,2,6278,93,2,Low,BrandiSharlene,377,4,0,5,0,0.434604905,2,2
+34,1,8,Graduate,Proffessor,Independent,455,9,81848,88231,5663,88,7,88,4,117,1,6618,-219,1,Low,AdrienneElliott,349,10,0,3,0,1.313901345,2,1
+43,1,24,Post Graduate,Business,Captive,209,4,83805,95037,0,39,8,40,0,43,2,7128,-60,3,Low,KimberlyCasandra,601,3,0,0,0,0.24796748,0,2
+30,1,2,Post Graduate,Pensioner,Independent,193,6,54012,83908,0,54,9,64,1,75,1,6294,-81,4,Medium,DavidLuella,424,8,0,0,0,0.493718593,2,1
+42,1,22,Post Graduate,Proffessor,Captive,637,0,99147,93698,0,134,11,134,4,164,1,7028,-182,6,Medium,JohnathanLydia,431,4,0,4,5,2.216535433,0,2
+42,1,4,Post Graduate,Proffessor,Captive,146,0,84977,76854,0,44,11,47,4,55,0,5765,-100,3,High,BusterNadia,172,10,0,0,0,1.546341463,1,1
+37,2,18,Graduate,Consultant,Independent,330,10,65830,84443,0,91,11,98,4,137,0,6334,-77,4,Low,MarionPablo,634,4,0,4,0,4.291666667,2,1
+41,1,15,Post Graduate,Engineer,Captive,605,0,87545,91387,7983,76,6,74,1,104,2,6855,-304,4,Low,AmyShaun,319,2,3,5,2,0.838410596,0,2
+27,1,3,Graduate,Architect,Captive,548,7,82724,97937,6428,69,7,67,2,95,2,7346,-342,1,Medium,HymanRory,508,3,0,2,2,1.795238095,2,1
+20,1,2,Post Graduate,Pilot,Independent,150,0,74208,84185,0,48,11,48,4,54,0,6314,-18,3,Low,CasandraPaulette,615,8,0,0,0,0.820168067,3,1
+27,2,2,Graduate,Teacher,Captive,346,0,58159,81682,0,43,10,46,1,65,0,6127,-141,1,Medium,LouellaJosue,154,7,0,2,1,1.120287253,1,2
+31,1,9,Post Graduate,Consultant,Independent,471,5,61181,85812,9396,47,11,50,3,55,2,6436,-221,4,High,MickeyMargret,340,3,0,0,0,0.446315789,1,2
+41,1,1,Post Graduate,Pilot,Captive,139,5,73416,94470,5558,44,7,42,3,53,2,7086,97,2,Low,RobertoJeremy,600,8,0,1,0,1.440594059,1,2
+28,2,6,Post Graduate,Proffessor,Captive,602,7,73515,80959,0,57,9,61,1,86,0,6072,-298,5,Low,MarionPablo,285,6,0,4,1,0.250614251,0,2
+51,2,19,Post Graduate,Pensioner,Captive,212,0,68801,83206,0,64,10,59,1,89,2,6241,-21,3,High,MiaMarissa,391,7,0,0,0,1.071881607,2,1
+40,1,1,Graduate,Engineer,Captive,149,0,66938,76796,0,43,11,43,1,63,1,5760,-28,3,Low,PrinceWill,481,10,0,1,0,0.397163121,0,1
+52,1,1,Post Graduate,Business,Independent,446,0,98079,89179,6369,89,10,105,4,124,1,6689,-169,1,High,AdrienneElliott,329,7,0,0,0,0.399747793,2,1
+58,1,26,Graduate,Proffessor,Independent,515,11,51858,95483,8568,112,7,101,1,125,0,7162,-128,5,Low,ChandraDante,410,1,3,0,1,0.89893617,0,2
+30,2,5,Post Graduate,Proffessor,Independent,143,5,61649,80085,0,40,11,47,3,56,1,6007,30,2,Low,WilburErnestine,564,9,0,0,1,0.879901961,0,2
+51,1,20,Post Graduate,Pensioner,Captive,383,4,65748,99025,5392,38,8,40,1,42,0,7427,-280,3,Medium,JohnathanLydia,120,1,1,0,1,0.461055276,1,1
+30,1,0,Graduate,Business,Captive,451,4,89899,92403,0,36,6,41,1,48,0,6931,-352,6,Medium,BusterNadia,427,1,0,0,0,0.222816399,1,1
+23,1,2,Post Graduate,Teacher,Captive,345,11,63176,77432,8306,110,7,104,0,131,2,5808,-97,5,Low,AnitaMarshall,622,9,0,0,1,1.223163842,0,1
+31,2,9,Post Graduate,Teacher,Independent,200,6,74751,86927,6173,58,10,60,4,82,1,6520,60,2,Low,PollyGene,562,10,0,4,1,0.514395393,0,2
+22,1,0,Graduate,Driver,Captive,342,5,57861,97732,8346,48,10,48,4,59,2,7330,-253,5,High,MiaMarissa,416,2,0,0,0,0.291666667,1,1
+24,1,4,Graduate,Architect,Independent,572,6,97477,75449,0,49,9,51,4,76,1,5659,-297,3,Low,CasandraPaulette,176,4,0,3,0,0.70845481,1,2
+41,2,18,Graduate,Business,Independent,570,0,58454,83271,7253,153,8,138,4,203,0,6246,-90,6,Medium,TracieSasha,512,5,5,0,0,2.923076923,3,1
+29,1,7,Graduate,Engineer,Captive,357,6,66157,93163,8456,55,10,50,3,62,2,6988,-164,2,High,RobertoJeremy,167,9,0,3,0,0.602484472,0,2
+30,1,0,Graduate,Architect,Captive,523,0,55892,86271,0,43,7,39,1,48,0,6471,-367,1,Low,AnitaMarshall,650,7,1,3,0,1.830065359,1,2
+31,2,10,Post Graduate,Pensioner,Captive,359,0,96129,76756,0,47,7,42,1,62,0,5757,-258,4,Low,HymanRory,574,5,2,4,0,0.491856678,1,1
+27,1,7,Post Graduate,Pilot,Independent,146,5,97033,98658,6349,44,10,45,1,57,0,7400,65,1,Low,DeandreAimee,404,10,0,0,2,0.494356659,2,2
+59,1,29,Post Graduate,Engineer,Captive,386,9,58684,91828,0,95,9,83,4,118,1,6888,-138,1,Medium,JohnathanLydia,296,3,0,1,2,0.954110899,0,1
+43,1,6,Post Graduate,Pensioner,Independent,151,5,98972,92933,8110,44,8,45,4,62,1,6970,-80,4,Medium,SpencerJarod,514,7,0,2,0,0.653594771,0,1
+34,1,15,Graduate,Pilot,Independent,619,0,78149,80989,0,68,7,68,2,70,2,6075,-426,3,Medium,DorisTristan,340,6,0,0,1,0.31232493,0,1
+43,2,9,Post Graduate,Doctor,Captive,163,5,57780,76348,6343,54,7,46,1,64,2,5727,86,5,High,DebraCollin,381,5,0,3,0,2.047008547,2,2
+56,1,12,Post Graduate,Business,Captive,524,16,90826,97644,5777,168,9,162,4,194,0,7324,-34,4,High,BrandiSharlene,582,10,0,1,3,1.182341651,3,1
+55,1,18,Graduate,Architect,Captive,615,0,70892,94814,8882,53,7,53,3,70,2,7112,-536,6,Low,WilburErnestine,478,2,0,5,2,0.949612403,1,1
+20,1,2,Post Graduate,Driver,Independent,499,0,50206,89286,6676,91,10,88,3,97,0,6697,-316,1,Low,MavisJanelle,563,7,3,1,0,0.594827586,2,1
+46,2,27,Graduate,Driver,Captive,194,6,73956,81131,8078,64,6,56,1,74,2,6085,73,4,High,JacquelynLonny,442,5,0,0,0,0.595628415,2,2
+29,1,9,Graduate,Driver,Captive,386,12,64453,99659,0,110,9,106,2,163,2,7475,19,2,Medium,DwightNeva,583,2,4,1,0,4.52238806,2,2
+54,1,2,Post Graduate,Architect,Captive,358,0,53748,95467,9528,72,10,70,2,99,0,7161,-201,5,Low,AdrienneElliott,241,5,2,0,1,2.450381679,2,1
+44,1,25,Graduate,Consultant,Independent,606,0,84728,95250,0,48,10,48,4,76,2,7144,-336,2,High,DomenicHerman,507,6,2,5,1,1.010989011,1,2
+34,1,6,Post Graduate,Pilot,Independent,142,5,85118,75212,5116,45,10,44,1,53,2,5641,50,6,Low,DarrylErnie,531,8,0,0,1,1.325301205,0,2
+43,1,1,Graduate,Pilot,Captive,521,6,70152,80457,7851,55,7,55,4,87,1,6035,-254,4,Medium,TwilaBradley,197,8,0,0,1,1.768115942,0,2
+42,1,14,Post Graduate,Doctor,Independent,537,0,98622,90721,0,105,8,101,3,156,0,6805,-143,1,High,MarionPablo,509,4,0,3,1,1.199592668,2,2
+55,1,2,Post Graduate,Business,Independent,294,0,76767,99029,0,69,7,65,1,90,2,7428,-102,3,Medium,PabloChelsea,424,5,0,0,2,0.92185008,2,1
+59,1,18,Graduate,Pilot,Captive,643,0,86466,88375,9916,84,9,84,3,95,0,6629,-316,1,High,LorenzoJohanna,469,5,0,0,0,3.483516484,2,2
+24,2,5,Post Graduate,Engineer,Independent,569,0,68991,88807,0,102,11,108,1,118,2,6661,-319,4,Low,DomenicHerman,368,8,0,1,1,0.504065041,0,1
+26,1,7,Post Graduate,Engineer,Independent,150,0,74452,91474,6855,36,9,38,0,56,2,6861,16,6,High,PabloChelsea,565,3,0,1,0,0.572687225,1,2
+34,2,7,Graduate,Business,Captive,559,11,90450,80158,5757,113,7,109,4,120,1,6012,-244,6,High,AmyShaun,449,7,3,3,1,1.045028143,2,1
+43,2,16,Post Graduate,Proffessor,Captive,370,8,68514,93872,0,68,7,78,4,90,1,7041,-94,4,Medium,ChandraDante,236,5,2,4,0,1.788235294,2,2
+23,1,3,Graduate,Driver,Captive,179,0,74992,89676,0,59,9,59,1,61,0,6726,45,2,Medium,HarveyMelisa,387,10,2,1,2,0.447741935,0,2
+30,1,7,Post Graduate,Engineer,Independent,303,9,50057,92559,0,93,9,96,4,102,1,6942,52,5,Low,VickieMai,347,6,0,1,2,0.669218989,0,2
+28,1,3,Graduate,Architect,Captive,154,0,74737,78593,7695,45,11,46,2,63,1,5895,-83,5,Low,MayraAbram,509,5,2,0,0,0.280701754,1,1
+53,1,4,Post Graduate,Driver,Captive,276,0,76280,82964,5121,34,8,36,0,50,2,6223,-60,1,Medium,ChandraDante,370,8,0,3,0,0.185758514,0,2
+29,1,11,Graduate,Architect,Independent,194,6,50255,82987,0,56,7,62,0,76,2,6225,-80,6,High,VickieMai,477,9,0,0,1,1.179916318,2,1
+22,1,0,Graduate,Proffessor,Independent,154,5,65932,75182,7332,49,11,48,1,57,2,5639,-34,6,Low,KeriLamont,465,8,0,5,0,1.5,0,1
+39,1,2,Post Graduate,Software Developer,Captive,437,0,69150,77314,6062,90,7,87,2,104,0,5799,-225,2,Medium,DebraCollin,528,5,3,4,1,0.777777778,0,1
+32,1,6,Graduate,Doctor,Captive,371,6,74217,88197,0,56,7,56,1,63,2,6615,-114,2,High,BusterNadia,175,10,0,4,0,0.69924812,0,2
+59,1,10,Post Graduate,Consultant,Captive,189,4,83027,92418,5628,41,6,38,1,44,0,6932,-165,3,Low,ClaudioSherwood,128,7,0,5,0,1.580547112,1,1
+42,1,8,Graduate,Pensioner,Independent,145,5,93862,98439,0,44,9,46,2,55,0,7383,-77,5,Low,LoreneIsiah,256,1,0,0,0,0.445544554,0,1
+22,1,1,Post Graduate,Proffessor,Independent,606,0,55536,93692,8660,69,8,76,3,101,0,7027,-431,3,Medium,SpencerJarod,339,2,0,1,0,0.439285714,0,1
+55,2,35,Post Graduate,Doctor,Captive,519,0,67504,91515,0,63,7,71,3,82,2,6864,-314,6,Low,TracieSasha,334,3,0,1,0,0.26405868,2,1
+45,1,18,Graduate,Architect,Captive,606,0,54557,83043,6768,144,11,135,3,186,1,6229,-106,3,Medium,DomenicHerman,534,7,0,0,0,0.570379437,0,2
+32,1,2,Graduate,Consultant,Independent,192,6,96751,97675,0,57,8,52,1,70,1,7326,36,4,High,LouellaJosue,289,4,0,5,0,0.227445997,0,2
+45,1,15,Post Graduate,Teacher,Independent,373,0,53021,97054,8975,55,8,53,1,63,2,7280,-140,2,High,CasandraPaulette,186,5,0,0,0,0.624087591,0,2
+38,1,1,Post Graduate,Business,Captive,222,0,78583,93461,8223,63,8,65,1,69,0,7010,61,3,Low,PollyGene,366,3,0,5,0,0.317666126,1,2
+48,1,20,Post Graduate,Business,Independent,137,0,97806,79943,7428,42,11,40,2,55,0,5996,-60,1,Medium,ChandraDante,466,4,1,1,0,0.883008357,0,1
+41,1,14,Post Graduate,Software Developer,Captive,314,7,59101,92656,0,61,10,59,1,90,1,6950,-9,1,High,JacquelynLonny,416,10,0,0,1,0.63253012,0,2
+43,1,11,Post Graduate,Engineer,Independent,299,9,99303,87042,7547,99,11,87,1,114,2,6529,25,1,High,HymanRory,599,3,0,0,2,0.663507109,3,2
+54,1,6,Graduate,Teacher,Independent,352,5,82208,97599,7572,46,8,42,0,61,0,7320,-171,6,High,DorisTristan,149,8,0,1,0,0.718826406,0,2
+31,1,11,Graduate,Teacher,Independent,572,0,58098,86453,0,35,9,35,3,55,1,6484,-365,3,High,BrandiSharlene,240,10,0,0,0,0.99127907,0,2
+59,1,24,Post Graduate,Pensioner,Independent,127,0,82041,75671,0,42,11,37,2,48,0,5676,22,2,High,BrandiSharlene,473,10,0,0,0,0.739130435,0,2
+55,1,27,Post Graduate,Business,Captive,469,0,57338,95055,7356,43,9,46,4,54,0,7130,-362,5,Low,DebraCollin,143,4,0,0,1,1.571428571,1,1
+34,1,14,Graduate,Pensioner,Captive,579,0,73693,98678,8521,115,6,111,4,122,0,7401,-144,4,Low,AhmedMisty,583,8,0,4,0,2.676923077,2,2
+23,1,3,Post Graduate,Architect,Independent,368,11,78265,90522,0,112,9,112,2,138,2,6790,85,3,Low,AmyShaun,536,4,4,0,0,1.108108108,0,2
+43,1,5,Graduate,Teacher,Independent,181,0,53871,86355,0,56,9,60,1,65,0,6477,-61,6,High,DavidLuella,375,4,0,2,1,0.746527778,0,1
+26,1,2,Post Graduate,Pilot,Captive,479,0,88377,97387,0,115,6,119,3,163,1,7305,-27,6,Medium,AnitaMarshall,473,3,0,0,0,1.738255034,2,2
+49,1,28,Graduate,Business,Independent,177,0,60336,90879,0,51,8,50,0,76,1,6816,71,6,High,MavisJanelle,195,10,0,4,0,1.465703971,1,2
+50,1,31,Post Graduate,Pilot,Independent,461,5,71430,92161,5003,41,11,41,2,59,2,6913,-410,4,Low,BrandiSharlene,141,6,0,5,0,1.881773399,1,1
+24,2,1,Post Graduate,Pensioner,Independent,185,0,54310,87267,6638,59,6,61,3,65,1,6546,47,3,High,HarveyMelisa,361,2,0,5,0,1.067146283,0,2
+45,2,22,Post Graduate,Pensioner,Captive,282,7,72506,83109,0,67,8,69,3,73,0,6234,-101,5,High,PrinceWill,209,2,0,0,0,1.111827957,2,1
+58,1,26,Graduate,Pensioner,Captive,267,0,72072,95510,9316,75,9,75,1,117,1,7164,-44,4,Low,DarrylErnie,556,5,0,0,2,2.731132075,0,1
+43,1,8,Post Graduate,Pensioner,Captive,393,0,63529,96789,8483,67,8,77,2,88,2,7260,-170,6,Low,JacquelynLonny,578,2,0,0,1,0.391472868,0,1
+40,2,0,Graduate,Driver,Captive,291,9,85287,83034,0,81,7,87,1,121,1,6228,26,4,Low,WilburErnestine,456,9,0,5,0,0.358116481,0,2
+23,1,1,Graduate,Proffessor,Independent,300,7,91066,83976,0,66,9,68,0,79,2,6299,-137,3,Medium,AdrienneElliott,354,6,0,0,2,0.833333333,2,1
+32,1,7,Post Graduate,Driver,Independent,299,0,85117,85384,0,99,10,96,1,105,1,6404,-24,1,High,MontyBuddy,496,2,0,3,4,0.562715765,0,1
+44,1,23,Post Graduate,Business,Captive,590,13,74344,96109,0,126,9,122,2,159,0,7209,-212,6,Low,MickeyMargret,533,1,0,0,2,0.737785016,3,1
+29,1,2,Post Graduate,Software Developer,Independent,507,0,74858,97602,0,68,8,68,1,106,0,7321,-244,4,High,DiegoJane,242,5,0,5,1,0.823529412,2,2
+40,1,19,Post Graduate,Software Developer,Captive,497,0,50253,83816,5371,70,11,77,2,87,1,6287,-200,3,High,TwilaBradley,234,9,0,2,1,3.279220779,0,2
+55,1,20,Post Graduate,Pilot,Independent,280,0,50616,93377,5182,36,10,42,4,50,1,7004,-69,3,Low,TracieSasha,344,7,1,1,0,0.428093645,1,2
+47,1,19,Post Graduate,Consultant,Captive,547,11,99229,89598,7161,115,11,115,0,130,2,6720,-98,2,Medium,JacquelynLonny,534,5,0,0,0,1.285714286,0,2
+50,2,12,Post Graduate,Proffessor,Captive,262,8,79375,83221,0,79,11,76,4,107,0,6242,87,3,Low,DomenicHerman,525,6,3,0,1,0.670520231,2,2
+53,2,17,Graduate,Pilot,Captive,361,0,87064,92373,0,108,11,112,3,119,0,6928,50,4,Medium,MavisJanelle,570,8,3,0,2,0.963068182,2,2
+29,1,5,Post Graduate,Pensioner,Independent,531,0,93155,89545,5575,63,11,55,2,78,0,6716,-263,6,Medium,MarionPablo,331,10,2,1,0,0.505154639,0,2
+31,1,5,Graduate,Consultant,Independent,289,9,61106,99519,7729,82,9,79,3,112,2,7464,76,1,Medium,PabloChelsea,273,8,0,4,0,0.518888889,0,2
+56,1,4,Graduate,Pilot,Captive,231,6,55457,84347,5807,54,6,56,4,83,0,6327,48,3,Low,CasandraPaulette,249,8,0,4,1,0.476426799,1,2
+42,1,5,Graduate,Doctor,Captive,347,6,92423,75421,7946,55,7,61,3,81,0,5657,-204,4,High,CasandraPaulette,644,9,0,2,0,0.322268326,1,1
+22,2,1,Graduate,Business,Captive,573,6,86502,87329,0,56,9,56,0,75,0,6550,-431,2,Low,MagdalenaCarmen,331,7,2,1,2,0.260083449,1,1
+30,1,7,Post Graduate,Proffessor,Independent,427,0,61328,80755,7819,93,7,87,1,130,2,6057,-144,2,Medium,MarionPablo,309,4,3,0,1,1.455882353,2,1
+31,2,2,Graduate,Consultant,Independent,240,8,52553,93278,8633,67,11,74,3,98,2,6996,-4,4,Low,HarveyMelisa,298,10,2,5,0,1.805309735,0,1
+60,2,34,Post Graduate,Consultant,Captive,506,6,91081,98913,0,51,11,58,1,67,0,7419,-278,1,High,PrinceWill,318,8,0,5,0,0.365344468,0,2
+55,1,26,Post Graduate,Doctor,Independent,206,0,72274,91242,7063,47,9,54,0,62,0,6844,-65,3,High,MarcAlec,318,9,0,4,1,0.289007092,0,1
+43,2,5,Post Graduate,Teacher,Captive,590,11,97614,86855,0,104,11,97,2,134,1,6515,-298,2,Low,ChandraDante,336,7,0,4,4,0.615979381,0,1
+24,1,1,Graduate,Engineer,Independent,233,0,61907,78727,7025,51,11,53,1,73,0,5905,-117,2,High,BillyJerry,487,10,2,0,0,0.656164384,1,1
+57,1,19,Graduate,Teacher,Captive,334,0,59408,97388,8173,107,7,107,3,120,1,7305,98,3,Low,AlphonsoTasha,346,3,3,4,0,1.83,0,2
+59,1,15,Post Graduate,Engineer,Independent,501,0,99359,97103,0,110,11,117,2,128,2,7283,-242,2,Low,MarionPablo,476,2,0,4,3,0.959459459,0,1
+23,1,3,Post Graduate,Architect,Independent,487,0,93024,91370,7941,99,7,109,2,122,1,6853,-134,5,High,WilburErnestine,329,6,0,0,0,1.438461538,2,2
+45,2,3,Post Graduate,Driver,Captive,544,10,83291,91296,7303,85,8,85,4,133,2,6848,-146,1,High,ClaudioSherwood,574,6,3,1,0,0.447562777,2,2
+31,1,2,Graduate,Business,Independent,291,0,93604,77153,0,56,11,58,2,73,1,5787,-77,3,Low,DomenicHerman,186,6,0,2,0,0.988352745,0,2
+34,1,11,Graduate,Proffessor,Independent,134,5,78408,96140,0,38,10,38,1,59,2,7211,-27,6,High,DavidLuella,292,8,1,0,1,0.37388724,0,1
+38,1,4,Post Graduate,Teacher,Independent,585,0,80265,96816,0,75,9,77,1,97,1,7262,-368,3,High,TwilaBradley,249,8,0,0,0,2.853846154,0,1
+35,1,3,Graduate,Software Developer,Captive,588,6,75620,96417,0,62,9,58,4,68,2,7232,-375,3,Low,LoreneIsiah,392,4,0,5,0,0.313856427,1,2
+40,1,11,Post Graduate,Pilot,Independent,576,15,99738,88611,0,136,8,140,0,192,1,6646,-130,4,Medium,KristopherRolando,468,4,5,0,2,0.756919374,3,1
+57,1,12,Graduate,Software Developer,Independent,628,11,70928,92071,0,94,11,100,4,140,0,6906,-325,6,High,TwilaBradley,383,10,3,5,0,0.935389134,0,1
+48,1,10,Graduate,Software Developer,Independent,369,12,51167,88239,0,107,6,122,4,140,0,6618,67,6,Low,LorenzoJohanna,538,8,4,4,0,0.540332907,0,2
+48,1,27,Post Graduate,Proffessor,Captive,602,5,82443,91663,5438,47,6,44,0,60,2,6875,-419,4,Low,PollyGene,614,1,2,0,0,0.712389381,1,2
+21,2,1,Post Graduate,Software Developer,Captive,252,6,68236,96140,0,55,11,48,4,69,1,7211,-29,1,Low,JohnathanLydia,544,9,0,2,0,0.933884298,0,2
+26,2,3,Graduate,Architect,Independent,563,0,85312,87531,0,95,7,95,0,98,2,6565,-284,6,Low,LorenzoJohanna,287,6,0,5,0,1.171814672,0,1
+40,2,19,Graduate,Engineer,Independent,635,5,78278,99744,0,52,7,50,3,60,1,7481,-408,3,Low,ChandraDante,516,8,0,0,1,0.649513213,1,2
+41,1,13,Graduate,Driver,Independent,187,6,67048,88908,0,52,11,62,4,73,2,6669,43,3,High,KristopherRolando,639,2,2,5,0,1.800796813,2,2
+56,2,26,Post Graduate,Engineer,Independent,545,0,86356,90238,0,45,6,45,0,55,1,6768,-328,3,High,KimberlyCasandra,349,5,0,0,0,1.20718232,0,2
+51,1,26,Graduate,Teacher,Independent,384,0,68787,79281,0,56,7,54,3,59,0,5947,-296,3,Low,DeandreAimee,286,8,2,5,0,1.384120172,0,1
+42,1,16,Post Graduate,Doctor,Captive,491,4,54341,99956,0,41,9,41,1,50,2,7497,-387,5,Low,DorisTristan,131,8,1,1,0,1.077634011,1,1
+43,1,10,Post Graduate,Driver,Captive,363,0,59092,97165,0,57,9,57,3,59,1,7288,-140,3,High,AhmedMisty,602,6,2,1,1,0.342857143,1,2
+49,1,1,Graduate,Business,Captive,626,0,56918,84009,0,85,7,90,2,99,1,6301,-317,6,Medium,DebraCollin,519,10,0,5,1,1.630952381,2,2
+35,1,3,Post Graduate,Consultant,Independent,485,0,87162,89236,0,129,8,120,2,181,2,6693,-109,3,Low,LorenzoJohanna,430,8,0,5,0,5.408333333,3,1
+34,1,7,Graduate,Consultant,Captive,575,0,73273,97522,5297,107,10,97,4,141,1,7315,-253,5,Low,CasandraPaulette,345,7,0,1,0,1.099365751,2,1
+29,1,9,Post Graduate,Driver,Captive,377,0,66735,84515,5087,81,6,74,2,91,0,6339,-87,2,High,WilburErnestine,544,4,0,0,0,0.86013986,2,2
+57,1,39,Post Graduate,Consultant,Captive,492,11,68130,87695,0,105,11,108,2,136,0,6578,-93,3,Medium,DorisTristan,463,10,3,1,1,1.068100358,2,2
+43,1,16,Post Graduate,Pilot,Captive,328,9,86334,85774,8662,83,7,77,4,107,1,6434,-152,3,Low,AlphonsoTasha,400,7,0,4,0,0.608630952,2,1
+47,2,22,Graduate,Consultant,Independent,533,11,67011,94169,0,105,8,108,1,136,0,7063,-141,4,Low,MyronPhil,349,5,0,0,0,0.599667774,0,2
+51,1,23,Post Graduate,Pensioner,Independent,187,0,67074,90667,0,54,8,56,1,77,0,6801,-49,6,Medium,DavidLuella,216,2,0,4,1,0.532857143,0,1
+47,2,21,Graduate,Proffessor,Captive,499,11,60854,79294,6817,116,6,109,2,126,2,5948,-52,1,Low,DebraCollin,579,10,0,0,1,0.607266436,0,2
+53,1,34,Post Graduate,Pensioner,Independent,131,4,77879,76997,0,38,6,43,0,50,2,5775,73,1,High,MickeyMargret,203,9,0,0,0,0.636932707,2,2
+59,1,26,Graduate,Business,Independent,179,0,93098,75987,6636,57,9,55,0,66,1,5700,-6,3,Low,KristopherRolando,434,6,0,0,1,0.836676218,2,1
+42,1,14,Graduate,Business,Captive,475,13,74892,98025,0,130,6,130,0,147,0,7352,-30,5,Low,MagdalenaCarmen,462,10,4,4,3,0.67404674,0,2
+24,1,3,Graduate,Pensioner,Independent,216,7,72308,94274,0,65,11,60,1,91,2,7071,-50,6,Low,PollyGene,280,3,2,0,0,2.006493506,0,1
+37,1,15,Graduate,Pensioner,Independent,391,0,75208,91964,0,109,10,125,0,156,0,6898,20,2,High,ClaudioSherwood,643,5,0,2,0,0.635778636,3,2
+48,1,23,Graduate,Teacher,Captive,595,0,69495,90010,0,90,10,102,4,128,2,6751,-287,3,Low,DomenicHerman,435,7,0,4,1,1.23690205,0,1
+45,1,16,Post Graduate,Software Developer,Captive,135,0,97268,81549,9348,43,10,38,3,54,1,6117,20,3,Low,JudyAlden,538,10,0,5,0,0.634328358,1,2
+56,1,3,Post Graduate,Software Developer,Captive,131,0,80475,99900,0,41,7,43,4,47,2,7493,-48,4,Low,SpencerJarod,593,10,1,5,0,0.364754098,0,1
+48,1,21,Graduate,Engineer,Independent,514,12,96339,82999,0,110,10,126,1,158,1,6225,-143,6,High,KeriLamont,472,9,0,0,1,0.854197349,0,1
+59,2,13,Post Graduate,Doctor,Independent,553,9,57872,87512,5710,92,11,89,1,115,1,6564,-199,5,Medium,PollyGene,517,9,3,0,0,0.980802792,0,2
+58,1,11,Post Graduate,Proffessor,Captive,500,15,59781,80063,0,157,7,152,4,182,2,6005,23,5,High,JohnathanLydia,491,2,0,0,1,1.109227872,0,2
+56,2,21,Post Graduate,Pensioner,Independent,194,6,60498,82642,7958,64,9,64,0,66,2,6199,95,6,Low,DorisTristan,216,1,2,0,0,0.478747204,2,2
+36,1,0,Graduate,Consultant,Independent,286,5,61883,96153,0,46,9,46,2,73,0,7212,-79,6,Medium,JohnathanLydia,329,5,0,0,0,0.774647887,0,2
+23,1,0,Graduate,Architect,Captive,527,0,96329,78236,5098,124,8,128,1,161,2,5868,-202,1,Medium,MyronPhil,413,1,0,3,5,1.103383459,3,1
+50,2,30,Graduate,Business,Independent,487,0,96399,84888,0,101,7,92,1,113,0,6367,-97,1,High,MarionPablo,415,6,0,5,3,0.616766467,2,2
+42,1,19,Post Graduate,Teacher,Captive,201,0,90415,87548,7453,38,9,39,2,49,2,6567,-93,4,Medium,MarcAlec,523,3,1,0,0,0.174757282,0,1
+33,1,7,Post Graduate,Pensioner,Independent,400,11,91295,86498,0,107,11,97,1,142,0,6488,-86,6,Medium,MontyBuddy,378,1,0,0,0,0.703939009,2,1
+20,1,1,Graduate,Software Developer,Independent,131,0,67193,75127,0,39,7,41,1,51,0,5635,-8,3,High,JohnathanLydia,542,3,1,3,0,0.72168906,0,1
+22,2,1,Post Graduate,Business,Captive,131,0,60858,96503,6635,41,7,37,2,54,1,7238,46,2,High,MagdalenaCarmen,467,10,0,0,1,0.555555556,2,2
+57,1,24,Post Graduate,Teacher,Independent,470,0,61830,78540,0,62,7,56,1,82,0,5891,-218,5,High,JacquelynLonny,617,10,0,0,0,1.602112676,0,2
+49,1,15,Graduate,Doctor,Independent,218,7,59720,76126,0,68,6,68,0,83,1,5710,-47,2,High,RobertoJeremy,593,3,0,4,2,0.578199052,0,1
+46,2,20,Post Graduate,Consultant,Captive,252,0,99766,83101,8867,49,6,54,3,66,1,6233,-181,6,Low,DebraCollin,542,2,2,0,1,0.649842271,1,1
+21,1,0,Graduate,Engineer,Captive,280,0,63603,91722,5743,64,8,60,4,83,1,6880,-32,1,Low,LouellaJosue,208,5,0,0,1,0.568760611,2,2
+37,1,4,Post Graduate,Software Developer,Captive,313,0,70864,89555,0,56,8,58,1,73,2,6717,-148,4,High,MavisJanelle,188,10,0,0,2,0.82345191,0,1
+50,2,22,Graduate,Consultant,Captive,645,0,75508,76587,0,100,8,111,4,135,2,5745,-236,4,Medium,MavisJanelle,390,10,0,0,0,0.65654649,2,2
+28,1,8,Graduate,Teacher,Captive,281,0,81422,98005,5177,36,6,35,0,50,2,7351,-129,6,Low,KristopherRolando,315,4,0,0,1,0.856164384,1,2
+56,1,12,Post Graduate,Teacher,Captive,433,8,89399,95513,5313,74,8,71,2,101,1,7164,-188,6,Medium,LouellaJosue,246,7,0,0,2,0.743276284,2,1
+37,1,10,Graduate,Consultant,Independent,601,0,89556,87496,7897,68,10,59,2,78,0,6563,-325,5,Medium,MagdalenaCarmen,408,9,0,0,0,0.367383513,2,2
+44,1,21,Post Graduate,Teacher,Independent,593,10,87125,78808,0,95,7,98,1,124,2,5911,-310,5,Low,AhmedMisty,523,4,3,2,0,0.411363636,2,1
+37,1,4,Post Graduate,Software Developer,Captive,413,0,87206,83505,7231,55,8,55,3,68,1,6263,-278,3,High,DorisTristan,178,7,0,3,0,0.652223489,0,1
+29,1,8,Post Graduate,Engineer,Independent,468,11,96473,98476,0,101,9,98,3,138,1,7386,-150,1,High,MontyBuddy,337,3,0,2,2,2.292372881,2,1
+45,2,24,Post Graduate,Pilot,Captive,533,5,72562,75236,7153,42,7,42,2,61,1,5643,-396,6,High,MagdalenaCarmen,145,1,1,0,0,0.593047035,0,1
+44,1,16,Post Graduate,Doctor,Captive,209,0,93660,82451,0,65,11,65,0,79,1,6184,-97,1,High,MarcAlec,301,3,2,5,1,0.557413601,2,1
+43,1,0,Graduate,Business,Independent,182,6,50208,87729,0,51,6,53,1,78,2,6580,-82,5,Low,MayraAbram,337,3,0,0,0,1.052631579,0,1
+53,2,1,Post Graduate,Business,Captive,222,0,64307,98140,0,73,10,69,4,80,1,7361,50,6,Low,DwightNeva,629,3,0,5,0,0.369436202,2,2
+56,1,15,Post Graduate,Teacher,Independent,620,4,86706,83224,0,43,6,41,3,49,1,6242,-573,1,High,KristopherRolando,133,7,0,4,1,0.745,1,1
+41,1,16,Post Graduate,Consultant,Independent,486,11,79830,85149,0,116,6,99,2,137,0,6387,-82,6,High,DomenicHerman,467,10,0,4,1,2.745341615,2,2
+22,1,2,Post Graduate,Engineer,Independent,628,0,56674,82774,0,75,10,73,2,80,1,6209,-425,2,Medium,AlphonsoTasha,561,8,0,1,0,0.498905908,2,1
+41,1,10,Post Graduate,Driver,Independent,186,6,80500,92050,0,54,6,60,1,73,1,6904,-43,1,High,LoreneIsiah,225,10,0,0,0,0.466292135,2,1
+24,1,2,Graduate,Engineer,Independent,156,0,51458,75664,9552,50,10,48,3,58,2,5675,-72,6,Low,BrandiSharlene,470,3,0,0,1,3.175141243,2,1
+52,2,12,Graduate,Pilot,Independent,601,12,98760,80932,8728,124,10,121,0,144,1,6070,-156,5,High,DarrylErnie,492,8,0,0,0,3.144736842,2,2
+57,1,23,Post Graduate,Engineer,Captive,571,0,85402,98467,0,61,6,67,3,75,1,7386,-329,2,High,RobertoJeremy,246,1,0,0,0,0.315789474,2,2
+47,2,1,Post Graduate,Pilot,Independent,526,0,81588,83913,0,43,7,39,0,52,1,6294,-486,3,Low,JudyAlden,159,10,0,0,1,0.988814318,1,1
+32,1,0,Graduate,Pilot,Captive,214,0,59215,93112,0,61,6,61,0,82,1,6984,-73,4,Low,JohnathanLydia,204,2,0,2,1,0.428571429,0,1
+49,1,10,Graduate,Doctor,Independent,422,0,84743,93838,6089,54,10,58,0,75,0,7038,-136,5,Medium,KimberlyCasandra,630,2,0,2,0,0.212741752,0,2
+26,1,5,Graduate,Software Developer,Captive,285,9,77595,96021,0,86,10,91,3,108,2,7202,70,2,Medium,LoreneIsiah,466,7,3,0,0,1.619760479,0,2
+46,1,15,Post Graduate,Pilot,Independent,649,6,84653,91635,8515,53,11,53,4,84,0,6873,-379,2,Medium,MarionPablo,529,1,2,2,1,0.225921522,0,2
+37,2,18,Graduate,Consultant,Captive,502,8,76837,84684,0,71,10,76,0,107,0,6352,-282,6,Low,BusterNadia,254,9,0,0,0,1.947791165,0,1
+51,1,16,Post Graduate,Doctor,Captive,371,4,91952,83700,0,37,6,37,0,54,0,6278,-264,1,Low,JannaArden,128,7,0,4,1,1.452316076,0,1
+36,1,1,Graduate,Pensioner,Independent,508,0,57176,95002,6420,108,10,108,4,122,1,7126,-234,4,High,MarionPablo,434,5,3,2,0,0.520737327,2,1
+46,1,12,Graduate,Pensioner,Captive,635,0,90503,77086,0,82,6,74,0,108,1,5782,-454,2,Medium,JohnathanLydia,326,5,3,2,1,0.677835052,2,1
+47,1,5,Graduate,Teacher,Independent,474,0,67439,95663,9303,79,7,87,2,115,1,7175,-235,2,High,RobertoJeremy,281,3,3,3,0,1.029227557,2,1
+27,1,4,Graduate,Driver,Independent,237,8,57507,82322,9810,71,6,76,3,90,0,6175,45,3,Medium,VickieMai,467,10,0,0,2,1.0456942,3,2
+47,1,2,Post Graduate,Teacher,Independent,429,9,73807,97699,9485,84,11,87,4,101,0,7328,-158,2,Medium,MyronPhil,346,10,3,5,0,0.571428571,2,1
+59,1,28,Post Graduate,Driver,Captive,299,7,89828,77917,7901,66,11,66,2,75,0,5844,-167,4,Low,TwilaBradley,624,2,0,3,0,0.231543624,0,1
+55,1,33,Graduate,Driver,Independent,557,8,51463,96744,5950,74,9,74,1,98,2,7256,-327,5,Medium,MayraAbram,545,4,0,0,3,0.642685851,0,1
+33,1,12,Graduate,Pensioner,Captive,469,0,80738,78787,5819,114,11,122,2,157,2,5910,-170,3,Medium,BrandiSharlene,392,3,4,1,0,0.650529501,0,1
+36,1,9,Graduate,Pensioner,Independent,641,0,92477,90440,6773,90,6,90,2,110,1,6783,-304,1,Medium,KristopherRolando,511,10,0,0,0,0.332568807,2,2
+37,1,8,Post Graduate,Proffessor,Independent,392,7,78612,92527,0,67,10,72,1,93,2,6940,-99,3,Medium,MarionPablo,630,3,0,4,2,0.469387755,0,2
+57,1,16,Graduate,Pilot,Independent,385,0,97803,95202,0,63,8,60,0,69,0,7141,-161,4,High,SpencerJarod,266,1,0,3,2,0.286995516,0,2
+59,1,41,Graduate,Doctor,Independent,258,0,79794,86596,9380,62,11,66,2,93,1,6495,16,5,High,MarcAlec,400,3,0,1,1,0.356184799,0,2
+51,1,19,Post Graduate,Pilot,Independent,171,6,57189,96039,0,51,6,51,4,68,0,7203,27,2,High,MarionPablo,271,3,2,1,2,1.413793103,0,2
+48,1,22,Graduate,Pilot,Independent,150,5,76227,96909,8244,42,11,47,2,62,0,7269,-33,3,Low,PabloChelsea,201,10,0,1,1,0.985106383,2,1
+41,1,16,Post Graduate,Driver,Independent,649,11,54971,88317,0,105,9,109,1,137,0,6624,-306,3,High,MiaMarissa,621,8,0,0,2,1.073619632,2,1
+23,2,2,Post Graduate,Business,Captive,257,0,70934,90337,5227,74,6,76,0,81,1,6776,-60,3,Low,DarrylErnie,231,2,2,0,3,3.481481481,2,1
+52,1,31,Graduate,Pensioner,Captive,342,7,83133,91757,6567,68,7,59,4,78,1,6882,-237,5,Low,TracieSasha,553,3,0,2,0,0.820512821,2,1
+56,1,27,Post Graduate,Teacher,Independent,641,0,99351,88663,0,120,11,108,1,146,2,6650,-285,3,Medium,TwilaBradley,374,6,4,1,0,0.648681055,0,1
+24,1,2,Graduate,Consultant,Captive,336,11,99572,84422,0,94,8,97,4,144,1,6332,-34,6,High,AnitaMarshall,455,6,0,0,2,2.417355372,0,1
+28,1,5,Graduate,Consultant,Independent,607,6,96838,82185,6169,52,11,55,1,71,2,6164,-381,2,High,PabloChelsea,178,6,0,0,0,0.545994065,1,2
+58,2,29,Graduate,Engineer,Captive,146,0,93877,94409,6732,41,6,48,1,57,2,7081,-41,1,Medium,MarionPablo,450,4,1,0,0,0.437869822,2,1
+39,1,10,Graduate,Engineer,Captive,218,7,53021,90303,5764,61,9,68,0,89,2,6773,77,3,High,MayraAbram,348,7,0,5,1,0.775221239,2,2
+53,2,9,Post Graduate,Architect,Captive,577,0,83658,85942,0,48,9,46,0,71,2,6446,-340,6,Low,PabloChelsea,343,2,0,5,0,0.299638989,0,2
+41,1,19,Graduate,Proffessor,Independent,215,0,99798,87766,8071,67,6,65,4,84,2,6583,32,6,Medium,PollyGene,339,9,2,0,0,0.347098214,0,2
+57,1,38,Graduate,Consultant,Independent,190,6,92084,90964,0,63,7,53,3,74,1,6823,66,1,High,BrandiSharlene,536,5,2,5,1,4.856,3,2
+50,1,15,Post Graduate,Doctor,Independent,547,0,92021,86823,0,54,11,51,3,59,0,6512,-474,1,High,DeandreAimee,165,2,2,0,0,1.723636364,1,1
+45,1,26,Graduate,Architect,Independent,402,6,64668,92057,0,55,6,55,3,73,0,6905,-264,3,High,KeriLamont,330,7,0,0,0,0.362549801,0,1
+48,2,11,Graduate,Doctor,Captive,373,0,57855,99337,0,112,6,123,2,138,2,7451,22,3,Low,HymanRory,423,5,4,5,0,0.702034884,3,2
+31,1,7,Post Graduate,Teacher,Independent,500,0,99538,88395,0,50,10,51,0,70,2,6630,-330,3,Low,VickieMai,410,1,0,4,0,0.20332937,1,1
+29,1,7,Graduate,Pilot,Captive,367,0,62592,96617,9694,39,6,45,2,52,2,7247,-206,3,High,DiegoJane,298,2,1,0,0,1.133333333,1,2
+42,1,3,Graduate,Proffessor,Independent,287,0,97653,75519,6455,40,9,45,3,57,1,5664,-57,3,Medium,DiegoJane,142,1,1,3,0,0.689119171,1,2
+27,1,7,Graduate,Driver,Captive,377,12,81721,76136,0,109,6,117,1,151,2,5711,-37,2,Low,ClaudioSherwood,460,7,4,0,1,1.168765743,3,1
+39,1,20,Graduate,Doctor,Independent,510,7,90427,85997,6990,65,7,77,2,91,2,6450,-323,4,High,PollyGene,233,2,2,2,0,1.143820225,0,1
+26,1,7,Graduate,Pensioner,Captive,285,0,81130,92563,7110,83,9,88,4,114,2,6943,54,5,High,KeriLamont,565,2,0,4,0,0.334085779,0,2
+60,2,12,Graduate,Driver,Independent,386,0,82096,80019,0,93,11,93,4,96,1,6002,-41,1,Low,MavisJanelle,484,4,0,0,1,0.480941704,0,2
+43,1,11,Post Graduate,Proffessor,Independent,436,0,75976,76778,6930,88,10,101,0,126,1,5759,-185,3,Low,ChandraDante,315,1,0,2,2,2.75,2,1
+47,1,25,Post Graduate,Proffessor,Captive,136,5,84642,94400,0,42,7,42,0,52,2,7080,76,1,Low,MarcAlec,540,1,0,0,0,3.361111111,0,2
+35,1,1,Post Graduate,Architect,Captive,434,10,95116,80202,0,102,9,102,3,105,0,6016,-60,4,High,DeandreAimee,308,6,3,0,0,1.197674419,0,2
+55,1,30,Graduate,Doctor,Captive,135,0,93811,96085,6531,41,7,39,2,55,0,7207,-61,6,Medium,BillyJerry,552,8,0,3,0,0.776162791,0,1
+49,1,18,Graduate,Architect,Independent,478,0,71760,86022,6261,120,7,113,3,143,0,6452,-21,5,Low,MagdalenaCarmen,376,10,0,0,2,0.62147651,2,2
+24,1,5,Post Graduate,Pilot,Captive,208,6,62803,76694,9718,51,10,58,4,73,2,5753,31,4,Medium,BusterNadia,395,7,0,1,0,1.391982183,0,2
+28,1,3,Post Graduate,Proffessor,Independent,198,5,82547,96478,0,51,9,45,2,64,0,7236,-124,5,Medium,TracieSasha,615,10,0,1,1,0.293900185,1,1
+45,1,22,Graduate,Doctor,Captive,568,4,59462,81199,5262,36,8,41,1,52,2,6090,-408,5,High,DwightNeva,362,1,0,4,0,0.732421875,1,2
+40,2,21,Graduate,Driver,Captive,484,0,70294,76449,5819,95,6,86,2,106,1,5734,-235,6,Low,DebraCollin,287,9,0,0,0,3.315789474,2,1
+48,1,12,Graduate,Architect,Captive,152,0,74691,81322,0,49,7,50,4,53,1,6100,-71,6,Medium,MayraAbram,225,1,0,5,1,0.579844961,2,1
+24,1,5,Graduate,Engineer,Independent,225,0,85296,88631,0,39,7,43,4,57,0,6648,-11,6,High,AlphonsoTasha,291,3,0,1,0,1.004878049,0,2
+50,1,2,Post Graduate,Business,Captive,180,6,61722,92380,9652,52,7,54,3,74,2,6929,-9,2,Medium,MarionPablo,188,7,2,0,1,1.787878788,1,1
+38,2,6,Post Graduate,Proffessor,Captive,318,0,76742,93530,0,66,7,70,2,91,0,7015,-58,1,Medium,MontyBuddy,385,8,0,0,0,0.479915433,2,2
+28,1,6,Graduate,Doctor,Independent,132,4,55224,78873,6620,38,6,40,1,54,1,5916,-22,3,Low,DwightNeva,537,7,0,1,1,0.821311475,0,1
+37,1,14,Post Graduate,Software Developer,Captive,287,5,58024,81187,6504,45,11,50,2,66,0,6090,-154,2,Medium,TwilaBradley,511,7,0,0,0,1.267716535,1,1
+34,2,12,Graduate,Driver,Independent,589,8,97891,85266,5775,73,7,75,3,103,0,6395,-279,2,Low,ClaudioSherwood,284,7,3,5,1,0.96484375,2,2
+38,1,2,Graduate,Doctor,Independent,630,8,59614,96741,0,87,10,85,4,93,2,7256,-273,4,High,LouellaJosue,576,9,0,0,1,0.546391753,2,2
+41,1,20,Post Graduate,Proffessor,Captive,228,5,64419,95284,8111,45,10,50,1,66,2,7147,-6,3,High,MayraAbram,539,1,2,3,2,0.35,1,2
+56,1,17,Graduate,Software Developer,Independent,327,6,84338,86845,0,52,9,50,4,65,2,6514,-176,2,Medium,LorenzoJohanna,436,3,0,1,0,1.818181818,0,1
+50,1,26,Graduate,Architect,Independent,428,13,61489,86057,9325,124,6,133,1,171,0,6455,50,1,Medium,AhmedMisty,649,6,4,0,4,2.809248555,3,2
+46,1,8,Post Graduate,Teacher,Captive,398,10,86810,89055,0,102,8,96,1,111,1,6680,-50,4,Low,BusterNadia,309,4,0,5,2,0.610619469,2,2
+30,2,6,Graduate,Driver,Captive,542,9,60888,98031,8211,83,10,89,1,97,2,7353,-223,4,Low,AlphonsoTasha,300,10,3,0,0,0.361073826,2,2
+27,1,6,Post Graduate,Software Developer,Captive,595,5,55781,85229,0,51,9,46,2,67,1,6393,-365,5,Medium,AlphonsoTasha,642,3,2,3,2,1.344262295,1,2
+55,2,11,Graduate,Teacher,Independent,329,0,87765,89791,0,68,9,64,4,81,2,6735,-67,4,Medium,WilburErnestine,501,4,0,0,1,0.47032967,0,2
+25,1,5,Post Graduate,Pilot,Independent,646,11,64649,76852,7276,97,7,94,4,144,1,5764,-398,5,High,BillyJerry,421,9,3,0,0,0.507779349,2,1
+55,1,15,Post Graduate,Pilot,Independent,168,6,73083,87205,6993,47,6,55,3,66,2,6541,-53,3,Low,WilburErnestine,320,8,0,3,1,0.700606061,2,1
+39,1,0,Graduate,Architect,Captive,493,5,58546,79373,0,51,6,48,2,56,1,5953,-396,2,Low,TwilaBradley,300,5,2,0,1,0.183529412,0,1
+48,2,7,Graduate,Driver,Captive,616,0,78863,94105,9168,135,7,135,2,152,1,7058,-160,2,High,PollyGene,423,6,0,5,1,1.887195122,3,2
+38,1,1,Post Graduate,Proffessor,Independent,637,0,98839,76036,0,124,7,116,2,147,2,5703,-167,5,High,DomenicHerman,387,9,4,0,1,1.603174603,0,2
+48,2,13,Graduate,Teacher,Independent,473,0,62816,88953,0,74,8,65,3,86,0,6672,-164,2,Low,DarrylErnie,255,7,0,0,0,0.310773481,2,2
+54,1,2,Graduate,Driver,Independent,443,0,87651,97226,5882,83,10,98,1,116,2,7292,-48,2,Medium,MyronPhil,576,5,0,3,2,1.207317073,0,2
+41,1,18,Post Graduate,Driver,Independent,485,0,86536,88431,9314,53,6,50,0,58,1,6633,-252,2,Medium,DavidLuella,161,7,0,0,1,0.501760563,0,2
+48,1,22,Graduate,Consultant,Independent,354,0,74817,98928,0,47,9,49,1,67,2,7420,-106,5,High,DarrylErnie,245,2,0,0,1,0.230878187,0,2
+41,1,20,Post Graduate,Driver,Captive,313,0,68020,81540,6523,43,7,50,0,59,0,6116,-184,4,Low,JacquelynLonny,152,4,0,5,0,0.598662207,0,1
+42,1,18,Post Graduate,Engineer,Captive,279,9,60065,84382,5105,92,7,81,4,106,0,6329,-38,5,High,TracieSasha,648,7,3,0,0,0.580229226,0,1
+55,2,18,Post Graduate,Architect,Captive,182,0,90001,84587,0,56,11,53,2,73,2,6345,-67,4,Medium,DebraCollin,452,3,0,2,0,0.323927765,2,1
+32,1,10,Graduate,Proffessor,Captive,489,10,60069,78025,0,100,8,85,1,118,1,5852,-264,2,Low,MavisJanelle,302,6,0,4,0,0.98019802,0,1
+42,1,6,Post Graduate,Teacher,Independent,510,0,77316,97326,8924,69,10,62,3,91,2,7300,-220,4,Low,PollyGene,336,1,0,5,0,1.372881356,0,2
+29,1,8,Graduate,Consultant,Independent,190,6,68796,79255,9565,55,8,53,1,82,2,5945,23,6,High,MarcAlec,448,9,0,5,0,1.242063492,2,2
+59,1,2,Graduate,Business,Independent,559,4,74065,79690,5058,41,8,37,4,50,0,5977,-497,4,Low,DebraCollin,583,5,0,5,1,0.973070018,1,1
+42,1,18,Graduate,Consultant,Captive,230,0,79882,89135,7620,76,11,64,2,90,2,6686,-53,3,High,ChandraDante,254,7,0,0,3,1.742946708,2,1
+22,2,3,Graduate,Teacher,Independent,466,8,94627,81088,7241,86,7,78,3,96,1,6082,-306,5,High,DwightNeva,544,7,0,0,0,3.099415205,2,1
+50,1,12,Post Graduate,Architect,Independent,646,4,94175,94482,6995,37,10,41,1,46,0,7087,-502,4,Medium,MarcAlec,146,1,1,2,0,0.18321513,1,2
+39,1,21,Post Graduate,Teacher,Captive,476,0,99180,97271,0,96,10,102,4,132,0,7296,-110,3,Medium,ClaudioSherwood,330,8,3,3,0,3.272251309,2,2
+59,2,31,Post Graduate,Pilot,Captive,637,0,99967,75217,0,84,9,81,1,115,1,5642,-410,1,Medium,DwightNeva,395,4,0,4,0,2.284552846,0,1
+21,1,0,Graduate,Proffessor,Captive,503,10,53791,85379,0,90,10,99,4,121,2,6404,-102,4,Medium,AhmedMisty,331,8,0,4,2,0.454177898,2,2
+48,1,29,Post Graduate,Proffessor,Captive,428,0,51208,90927,0,111,7,108,4,118,0,6820,-152,2,Medium,DavidLuella,521,2,0,5,2,0.794661191,2,1
+58,1,24,Graduate,Business,Independent,437,4,97490,87167,0,43,9,37,4,49,0,6538,-355,1,High,AlphonsoTasha,129,9,0,0,1,1.621019108,0,1
+44,1,3,Graduate,Driver,Independent,240,0,50164,98575,5756,72,8,70,1,98,2,7394,-23,1,High,LoreneIsiah,354,7,0,2,0,0.448529412,2,1
+54,1,16,Graduate,Software Developer,Independent,232,0,61808,75795,0,77,10,70,4,86,0,5685,95,4,Low,DwightNeva,417,9,0,0,1,0.385083714,2,2
+46,1,13,Post Graduate,Pensioner,Independent,648,0,87081,98457,9580,52,6,58,4,76,0,7385,-389,6,High,HymanRory,305,10,2,0,1,0.756097561,1,2
+58,2,30,Graduate,Doctor,Captive,628,0,84463,80826,0,96,6,87,1,127,1,6062,-231,3,Medium,KristopherRolando,309,4,0,3,1,0.731421121,2,2
+29,1,11,Graduate,Pensioner,Independent,467,0,75168,89146,6374,38,8,42,4,51,1,6686,-414,2,Medium,JannaArden,478,2,0,0,0,0.595454545,0,1
+20,1,2,Post Graduate,Teacher,Independent,282,0,95614,80041,5591,65,11,59,4,79,2,6004,-92,1,High,AmyShaun,203,9,2,3,0,3.206349206,2,1
+32,1,13,Graduate,Business,Independent,287,6,68863,97596,0,54,11,56,0,76,2,7320,-32,5,Medium,DwightNeva,185,2,2,2,1,2.029166667,1,2
+36,1,12,Post Graduate,Architect,Captive,590,12,61100,91186,0,112,10,108,0,153,0,6839,-268,5,High,HymanRory,394,9,0,1,0,0.44470868,0,1
+25,1,3,Post Graduate,Pilot,Independent,473,4,69348,75582,0,38,10,37,1,57,2,5669,-416,2,High,MayraAbram,300,10,0,2,0,0.444759207,0,1
+24,1,2,Graduate,Software Developer,Captive,167,0,51212,82749,0,47,8,53,1,67,2,6207,-64,4,High,VickieMai,495,6,0,3,0,0.658249158,1,1
+47,2,6,Post Graduate,Pilot,Independent,195,0,98157,75284,9654,59,11,59,4,78,1,5647,-52,3,High,DebraCollin,337,10,0,1,2,1.581300813,0,1
+31,1,4,Post Graduate,Business,Captive,598,6,71764,85641,0,53,10,61,3,76,2,6424,-379,5,High,JudyAlden,453,3,0,0,0,0.345454545,0,2
+57,1,16,Post Graduate,Engineer,Independent,183,0,91701,96874,0,60,11,51,0,71,0,7266,-58,4,Low,KimberlyCasandra,522,9,0,5,0,4.484375,0,1
+31,1,8,Post Graduate,Doctor,Captive,210,0,94075,81862,0,65,10,69,3,76,1,6140,-42,5,Low,AdrienneElliott,232,8,2,0,0,2.646511628,0,1
+46,1,10,Graduate,Teacher,Captive,597,4,81938,81378,7656,38,7,42,4,47,2,6104,-520,3,Medium,LorenzoJohanna,318,7,0,0,0,0.261410788,0,1
+43,1,21,Graduate,Doctor,Independent,517,10,51606,93619,0,100,6,100,4,133,2,7022,-281,6,Low,JohnathanLydia,333,8,0,0,0,0.966611018,2,1
+51,1,1,Graduate,Doctor,Captive,441,0,99630,87896,0,49,6,50,3,53,0,6593,-210,2,High,MyronPhil,503,1,2,2,1,0.774,1,2
+54,1,16,Graduate,Pilot,Captive,591,7,52676,91403,0,61,11,61,4,89,2,6856,-404,3,High,RobertoJeremy,212,6,2,0,0,0.9734375,2,1
+31,1,12,Graduate,Pilot,Independent,557,0,58016,92287,7761,148,6,144,1,171,1,6922,-95,2,High,DomenicHerman,463,10,0,1,0,4.164285714,3,1
+20,1,1,Post Graduate,Architect,Captive,195,0,82317,86244,0,59,10,62,1,74,0,6469,44,4,High,AmyShaun,281,10,0,0,0,0.967897271,2,2
+43,2,21,Post Graduate,Driver,Captive,632,7,71398,90170,8183,76,6,67,2,88,0,6763,-446,6,Low,MyronPhil,327,5,2,0,1,0.357585139,2,1
+51,1,15,Post Graduate,Consultant,Captive,395,0,57916,96645,0,61,9,57,0,85,1,7249,-156,1,Medium,DwightNeva,203,8,0,3,1,0.344665885,0,2
+50,1,28,Post Graduate,Pilot,Captive,167,0,96864,96218,0,47,7,52,1,68,0,7217,62,6,Medium,ClaudioSherwood,579,10,0,4,0,0.458498024,2,2
+30,1,7,Graduate,Teacher,Captive,616,0,94077,83648,7284,132,8,124,2,157,2,6274,-147,4,High,SpencerJarod,413,1,0,0,1,3.101010101,3,2
+28,1,5,Graduate,Software Developer,Independent,634,9,83511,76628,0,82,6,94,3,108,2,5748,-300,5,Medium,DiegoJane,284,9,0,0,0,1.390361446,0,2
+24,1,2,Post Graduate,Engineer,Independent,182,6,95089,96674,0,51,8,51,0,80,1,7251,25,6,Low,LoreneIsiah,218,5,2,2,0,1.048780488,0,2
+30,1,6,Post Graduate,Engineer,Independent,383,6,99522,91405,0,52,11,56,4,66,2,6856,-185,3,Low,MagdalenaCarmen,174,2,0,2,0,1.324519231,0,2
+30,1,0,Graduate,Proffessor,Captive,421,5,85840,77774,0,44,11,47,2,66,0,5834,-233,1,Medium,MiaMarissa,372,3,2,4,0,0.299810247,1,2
+23,1,2,Graduate,Pilot,Independent,451,12,50098,77033,0,117,9,110,1,151,1,5778,-117,4,High,MagdalenaCarmen,606,10,0,0,0,1.246943765,2,1
+20,2,2,Graduate,Architect,Captive,350,0,76152,76964,0,59,10,59,1,86,0,5773,-51,3,Medium,SpencerJarod,362,8,0,0,0,1.289719626,2,2
+58,1,6,Graduate,Architect,Captive,276,0,91600,85148,0,77,9,88,3,110,2,6387,98,2,High,AlphonsoTasha,362,10,0,3,1,1.667546174,2,2
+28,1,9,Post Graduate,Proffessor,Captive,397,8,76092,85762,7257,83,9,75,2,101,2,6433,-98,6,High,TwilaBradley,350,3,0,3,3,0.973782772,2,2
+33,1,10,Post Graduate,Teacher,Captive,615,12,74571,94147,0,107,7,104,1,159,2,7062,-277,4,Low,LorenzoJohanna,396,8,0,0,0,0.730357143,0,1
+50,2,20,Post Graduate,Consultant,Independent,407,0,73865,82306,6514,56,9,50,4,74,1,6173,-139,2,High,LorenzoJohanna,402,5,0,0,1,1.972125436,0,2
+40,1,18,Graduate,Teacher,Independent,132,4,84910,89166,9494,37,10,38,1,57,2,6688,-29,4,Low,JohnathanLydia,398,6,0,0,0,2.639097744,2,1
+43,2,20,Post Graduate,Doctor,Captive,414,0,59589,84215,0,71,11,67,4,100,2,6317,-202,6,Low,AhmedMisty,314,2,0,0,2,0.268018018,2,1
+54,1,17,Graduate,Proffessor,Independent,517,0,78809,81772,0,66,6,62,3,72,1,6133,-225,3,Medium,PabloChelsea,200,1,0,0,1,3.385416667,1,2
+26,1,8,Graduate,Proffessor,Captive,186,0,75910,94456,8912,60,9,52,0,74,2,7085,-3,6,High,WilburErnestine,278,3,0,0,1,0.51901566,2,1
+22,2,0,Graduate,Consultant,Independent,612,10,81658,90183,0,102,10,87,1,121,1,6764,-392,6,High,MyronPhil,379,3,0,3,1,0.412782956,2,1
+31,1,1,Post Graduate,Business,Independent,125,0,63883,85755,0,41,9,36,1,48,0,6432,-8,6,High,DorisTristan,561,6,1,0,0,1.254310345,2,1
+29,1,9,Post Graduate,Teacher,Independent,232,0,72680,81966,7122,65,9,77,1,90,2,6148,100,3,Medium,HarveyMelisa,586,6,0,3,2,0.689719626,0,2
+20,1,1,Post Graduate,Proffessor,Independent,212,0,86971,97542,8753,48,11,55,2,68,1,7316,-47,4,Low,DwightNeva,558,2,0,5,0,0.428571429,0,1
+42,2,20,Graduate,Doctor,Independent,368,0,92707,86812,0,95,7,98,3,145,0,6511,-33,6,Medium,JannaArden,338,10,0,0,2,1.122807018,0,1
+58,1,18,Post Graduate,Doctor,Captive,332,0,72753,80890,5895,106,7,110,1,116,1,6067,-38,5,Low,TwilaBradley,360,2,0,0,0,2.23125,0,1
+54,1,32,Graduate,Teacher,Independent,512,7,68736,92568,9961,68,10,59,4,78,2,6943,-343,2,Medium,BrandiSharlene,346,8,0,3,0,0.302096178,2,1
+28,1,2,Graduate,Pensioner,Captive,400,0,60276,87308,8763,65,11,63,1,82,2,6549,-162,5,Medium,DeandreAimee,211,9,0,0,0,1.490654206,0,2
+48,2,5,Graduate,Teacher,Independent,478,0,94367,97932,0,59,9,61,1,64,1,7345,-326,5,Medium,JacquelynLonny,584,9,2,0,0,0.666666667,1,1
+40,2,2,Graduate,Proffessor,Captive,384,9,86503,83557,7755,79,8,85,2,119,0,6267,-81,2,Medium,MayraAbram,457,3,0,1,0,2.19379845,0,2
+28,1,0,Post Graduate,Engineer,Independent,250,0,69916,95242,0,51,8,46,3,62,0,7144,-13,3,Medium,PabloChelsea,160,5,2,0,0,0.935034803,0,2
+31,1,10,Post Graduate,Pensioner,Captive,329,0,70023,75306,6137,102,8,109,1,118,1,5648,31,3,Low,LorenzoJohanna,407,10,0,0,0,1.071428571,0,2
+34,1,15,Post Graduate,Doctor,Independent,632,0,81497,86090,0,57,9,52,1,70,1,6457,-391,2,High,TracieSasha,179,8,0,0,0,1.87654321,1,2
+58,1,38,Graduate,Doctor,Captive,240,0,67908,84926,0,70,10,77,4,94,0,6370,-38,6,High,JacquelynLonny,337,6,2,0,3,0.703470032,2,1
+53,1,10,Post Graduate,Architect,Captive,572,7,57878,80144,0,63,9,65,1,97,2,6011,-292,2,Medium,PollyGene,225,2,0,0,2,1.086345382,2,2
+45,1,21,Post Graduate,Proffessor,Captive,588,12,73088,86944,8388,115,6,115,3,153,1,6521,-180,3,Low,WilburErnestine,409,9,4,5,2,1.501567398,0,2
+43,1,17,Graduate,Doctor,Captive,363,4,98272,92632,0,38,10,34,1,48,0,6948,-207,2,High,ChandraDante,120,8,0,5,0,0.316190476,0,2
+56,2,32,Post Graduate,Proffessor,Independent,392,5,70616,77232,0,47,6,45,3,64,1,5793,-250,6,High,JudyAlden,156,10,2,0,0,0.670926518,0,1
+58,1,29,Post Graduate,Architect,Independent,350,0,73645,90048,8314,69,8,69,2,78,2,6754,-154,6,Medium,JacquelynLonny,306,9,2,0,2,0.243820225,0,1
+40,2,2,Post Graduate,Doctor,Independent,299,0,91953,85499,9491,48,9,50,3,68,0,6413,-77,1,Medium,HymanRory,225,4,0,0,1,2.127777778,1,2
+22,1,3,Graduate,Business,Independent,524,4,72229,80032,6808,40,6,37,0,52,0,6003,-467,1,Medium,MiaMarissa,129,5,1,0,0,1.099236641,0,1
+40,1,9,Graduate,Teacher,Captive,361,5,69970,93442,0,43,6,40,3,60,0,7009,-139,6,Medium,AhmedMisty,238,6,1,3,1,0.283730159,0,2
+33,1,3,Graduate,Architect,Captive,474,5,54557,95616,5292,47,8,42,2,52,2,7172,-427,4,Medium,DwightNeva,141,4,1,0,1,1.153692615,1,1
+26,1,1,Post Graduate,Pilot,Captive,596,4,80840,84471,0,36,10,34,1,50,2,6336,-539,5,High,PrinceWill,545,10,0,5,1,0.142011834,1,1
+47,2,8,Post Graduate,Pensioner,Independent,462,0,57296,96968,0,65,7,72,3,88,1,7273,-214,1,Medium,DebraCollin,495,1,0,0,1,0.360576923,2,2
+35,1,5,Graduate,Consultant,Captive,537,4,93530,91971,0,39,11,39,4,52,1,6898,-474,5,High,AlphonsoTasha,131,2,0,1,0,0.77480916,1,1
+43,1,13,Graduate,Software Developer,Captive,403,5,80579,76829,7650,48,8,45,2,57,0,5763,-200,4,Low,JannaArden,634,3,2,4,1,0.25210084,0,2
+55,1,9,Post Graduate,Consultant,Independent,152,0,70593,96813,0,40,6,39,4,55,2,7261,7,5,Medium,WilburErnestine,329,8,0,0,0,0.237076649,0,2
+35,1,14,Post Graduate,Proffessor,Independent,533,5,59530,81956,9794,49,9,48,2,67,2,6147,-420,1,Medium,LorenzoJohanna,630,10,2,2,0,0.875338753,1,1
+36,1,1,Graduate,Software Developer,Independent,320,9,55945,80878,8400,75,9,78,1,115,2,6066,-70,5,Low,MavisJanelle,613,1,0,1,3,0.559498956,0,1
+58,1,29,Post Graduate,Business,Captive,504,9,53077,87319,0,83,11,95,0,118,2,6549,-280,6,Medium,MiaMarissa,423,9,0,3,0,1.176470588,0,1
+47,1,15,Post Graduate,Architect,Captive,209,0,55285,86299,0,61,11,69,2,79,2,6473,-88,5,High,MarcAlec,400,1,2,4,0,0.582733813,0,1
+25,2,1,Graduate,Architect,Independent,551,10,82100,95054,0,99,6,102,1,128,2,7130,-311,1,Medium,DwightNeva,549,7,0,0,3,0.413836478,2,1
+35,1,14,Graduate,Pensioner,Captive,178,6,79502,99269,7010,53,10,59,4,66,0,7446,76,4,High,JacquelynLonny,475,3,0,0,0,0.44351962,0,2
+34,1,15,Graduate,Driver,Independent,163,5,58805,91906,7243,46,11,41,1,60,0,6893,-21,2,Low,DarrylErnie,269,4,0,0,1,0.893867925,0,1
+56,1,10,Graduate,Business,Independent,232,0,80920,94051,0,56,11,62,0,82,0,7054,54,3,Medium,DavidLuella,591,4,0,5,0,1.522727273,2,2
+26,1,1,Post Graduate,Architect,Independent,176,0,98680,85282,9598,48,7,47,3,56,1,6397,41,4,Low,PabloChelsea,150,2,0,0,0,0.791556728,1,2
+38,1,3,Post Graduate,Consultant,Independent,304,0,60261,90614,0,91,10,88,4,125,0,6797,-81,5,Low,PabloChelsea,385,6,3,3,0,1.034313725,0,1
+50,1,7,Post Graduate,Driver,Captive,461,0,61288,75436,5245,42,8,43,4,50,2,5658,-259,6,Low,JacquelynLonny,134,10,0,1,1,1.089171975,0,2
+56,1,24,Graduate,Business,Captive,568,0,65356,93218,0,65,10,72,4,80,1,6992,-377,3,Low,PollyGene,217,2,0,0,1,0.971978984,2,1
+57,2,5,Graduate,Pilot,Independent,303,10,65338,84115,0,85,11,94,3,124,1,6309,-63,6,High,KristopherRolando,363,7,3,5,0,0.85097493,2,1
+44,1,17,Graduate,Pensioner,Independent,261,8,61678,95533,0,84,11,84,2,94,2,7165,42,4,Low,MontyBuddy,407,8,0,0,0,1.04048583,3,2
+38,1,13,Graduate,Pilot,Captive,507,7,80886,91469,5666,70,6,77,4,86,0,6861,-227,3,Medium,AhmedMisty,392,4,0,4,0,0.67029549,0,2
+48,1,12,Post Graduate,Consultant,Captive,128,0,82998,95248,0,40,7,41,2,47,1,7144,73,4,Medium,AhmedMisty,372,10,0,0,0,0.3671875,1,2
+38,1,6,Post Graduate,Pilot,Independent,216,0,63426,77273,0,69,10,67,0,80,1,5796,-12,1,Medium,DavidLuella,496,4,2,0,3,0.591025641,2,1
+54,1,15,Graduate,Engineer,Independent,273,0,50181,78355,5373,87,8,87,0,98,0,5877,49,6,Medium,MarcAlec,485,3,0,0,1,0.726932668,3,2
+27,1,8,Post Graduate,Pensioner,Captive,154,0,81502,94157,0,43,11,48,1,63,0,7062,-4,4,High,DorisTristan,607,10,2,1,1,0.585662211,3,1
+26,1,3,Graduate,Doctor,Independent,581,0,66204,98308,0,106,9,100,3,116,2,7374,-352,2,Medium,DarrylErnie,428,4,3,0,0,2.347593583,2,1
+28,1,3,Graduate,Business,Independent,198,0,95309,79855,0,59,11,65,2,73,1,5990,89,5,Medium,MyronPhil,224,6,0,3,1,1.862903226,2,2
+21,1,2,Post Graduate,Driver,Captive,131,4,91481,95223,0,37,10,39,2,55,0,7142,91,4,Medium,PabloChelsea,460,10,0,0,1,0.36970684,2,2
+43,2,21,Post Graduate,Architect,Independent,308,7,57011,92005,7373,65,7,65,3,87,2,6901,-118,1,High,DomenicHerman,218,2,2,0,0,0.473011364,2,1
+47,1,4,Graduate,Consultant,Independent,606,0,90346,93835,0,47,8,45,0,49,0,7038,-408,5,Low,AlphonsoTasha,141,3,0,0,0,0.370637786,0,2
+36,2,1,Graduate,Engineer,Captive,496,6,60533,96659,0,58,11,56,1,73,2,7250,-329,5,Medium,DarrylErnie,583,6,0,0,0,0.970099668,0,1
+55,2,7,Post Graduate,Architect,Independent,302,9,52745,97962,8498,77,11,88,2,110,2,7348,64,3,Medium,MiaMarissa,274,5,0,0,0,2.97,0,2
+20,1,2,Post Graduate,Engineer,Captive,202,0,89670,84533,7705,57,11,63,1,83,0,6340,-22,1,Medium,LouellaJosue,457,5,2,3,1,3.850340136,0,1
+48,1,9,Post Graduate,Pilot,Independent,570,7,65396,89064,5013,64,11,61,3,94,0,6680,-384,3,High,KimberlyCasandra,367,6,0,1,0,1.068292683,2,1
+21,1,2,Graduate,Consultant,Independent,130,4,61242,85557,5414,38,11,40,0,52,1,6417,-26,6,High,LorenzoJohanna,569,10,0,4,0,0.934343434,0,1
+21,1,3,Graduate,Driver,Independent,254,0,59598,93367,0,74,11,71,2,109,2,7003,-29,3,High,BrandiSharlene,589,8,3,4,3,0.656451613,0,1
+55,1,13,Graduate,Driver,Captive,333,10,57705,75932,0,93,10,103,0,137,0,5695,-37,1,Medium,MayraAbram,415,4,0,4,0,0.945564516,2,1
+46,1,26,Graduate,Doctor,Captive,129,4,54823,81886,8054,39,7,37,4,53,2,6142,-4,6,Medium,HarveyMelisa,167,10,0,0,0,0.181935484,0,1
+21,1,0,Post Graduate,Architect,Independent,424,7,56293,95792,0,68,9,68,2,70,0,7185,-144,2,Low,RobertoJeremy,547,7,2,5,1,1.297468354,2,2
+50,1,31,Graduate,Driver,Captive,427,0,53637,91061,0,93,6,82,2,108,1,6830,-69,2,High,HymanRory,524,10,0,5,0,0.602475928,0,2
+24,2,6,Post Graduate,Pilot,Captive,249,7,74210,78075,9146,63,9,63,2,84,0,5856,-76,2,Low,DomenicHerman,210,1,0,0,1,2.312267658,0,1
+27,1,8,Graduate,Proffessor,Independent,411,10,73789,88291,0,91,6,98,1,126,0,6622,-145,6,Medium,MarionPablo,315,8,0,5,0,1.171052632,2,1
+25,1,6,Graduate,Software Developer,Independent,171,0,92813,98332,0,50,6,51,2,70,1,7375,37,5,Low,MarionPablo,300,3,0,0,0,1.342465753,2,2
+58,1,29,Post Graduate,Consultant,Independent,207,7,87287,76712,7426,58,11,62,0,87,2,5754,-11,3,High,LoreneIsiah,639,1,2,0,1,0.73364486,2,1
+53,1,32,Post Graduate,Consultant,Captive,537,7,96132,93253,0,67,6,67,3,69,1,6994,-256,6,Medium,YoungMicah,202,8,0,0,0,0.875236295,2,2
+27,1,1,Graduate,Doctor,Captive,592,9,59919,77524,0,88,7,86,3,102,1,5815,-289,6,Medium,PrinceWill,426,8,3,0,0,0.657142857,2,2
+59,2,40,Post Graduate,Driver,Captive,307,8,91777,91712,9003,79,6,77,4,100,1,6879,22,6,Low,BrandiSharlene,256,1,0,0,1,1.590643275,0,2
+39,1,17,Graduate,Driver,Independent,363,0,65555,98482,0,43,11,43,2,67,2,7387,-177,3,Medium,MavisJanelle,152,9,0,0,0,0.821505376,1,2
+43,1,4,Graduate,Pilot,Captive,223,0,50969,80070,5592,65,10,61,0,78,0,6006,27,3,Medium,JannaArden,204,1,0,5,0,1.659685864,0,2
+54,2,32,Post Graduate,Software Developer,Captive,154,5,78556,81562,0,49,11,51,4,54,0,6118,91,3,High,HarveyMelisa,343,4,0,2,0,0.720136519,2,2
+28,2,6,Post Graduate,Driver,Independent,501,0,61610,93846,0,49,8,47,2,52,1,7039,-308,5,High,VickieMai,334,9,0,0,0,0.616666667,1,2
+23,1,3,Post Graduate,Consultant,Independent,135,0,52785,91745,0,39,7,41,3,55,0,6881,-30,5,Low,LorenzoJohanna,320,3,0,4,1,1.576,0,1
+42,2,3,Graduate,Doctor,Captive,442,0,60898,92851,0,44,8,45,1,57,0,6964,-331,6,Low,JannaArden,616,7,0,0,1,0.180124224,0,1
+41,2,21,Graduate,Business,Independent,418,0,75681,86725,6409,84,7,81,3,125,1,6505,-210,3,Medium,DeandreAimee,437,7,0,0,0,0.339578454,0,1
+37,1,9,Graduate,Architect,Captive,460,0,72822,94688,6003,41,9,43,1,64,2,7102,-411,2,High,JannaArden,148,3,0,0,0,0.279352227,0,1
+50,2,14,Post Graduate,Architect,Captive,373,9,66223,99298,0,97,8,82,0,115,1,7448,-28,4,Low,DarrylErnie,450,2,3,0,2,0.355501814,0,2
+34,1,10,Graduate,Doctor,Captive,614,0,82268,90107,8513,101,10,98,3,150,0,6759,-283,5,Medium,DiegoJane,375,2,0,0,0,0.681640625,2,1
+40,1,17,Post Graduate,Proffessor,Independent,319,0,90578,79977,0,77,6,84,1,95,2,5999,-134,1,High,PrinceWill,294,2,0,4,0,0.476722533,2,1
+25,1,0,Graduate,Doctor,Independent,368,12,55367,83078,0,103,7,107,2,158,1,6231,88,2,Low,DebraCollin,469,3,0,0,0,0.854860186,3,2
+20,1,1,Graduate,Pilot,Captive,267,9,87443,88394,0,75,6,83,1,109,2,6630,97,4,Medium,ChandraDante,384,5,3,0,1,0.462162162,0,2
+31,1,9,Post Graduate,Business,Independent,610,0,59395,92462,5152,42,7,48,1,60,2,6935,-399,4,Medium,ClaudioSherwood,280,7,0,5,0,0.555555556,0,2
+45,1,7,Post Graduate,Consultant,Captive,247,0,76212,88803,8503,41,10,40,2,56,1,6661,-70,1,High,PabloChelsea,137,4,0,0,0,0.536969697,1,2
+22,1,2,Graduate,Business,Captive,146,0,99731,85304,9061,44,11,45,3,57,2,6398,85,2,High,MontyBuddy,242,1,0,0,1,1.742765273,0,2
+52,1,31,Graduate,Driver,Independent,166,0,52602,86156,6193,51,10,55,0,60,0,6462,-10,1,Low,AnitaMarshall,382,4,0,2,0,0.614555256,2,1
+33,1,4,Graduate,Teacher,Captive,350,8,72637,90721,0,72,10,76,1,91,2,6805,-36,1,Medium,BusterNadia,239,10,0,1,0,0.757369615,2,2
+28,1,8,Post Graduate,Software Developer,Independent,418,10,67071,90184,0,92,10,89,4,126,0,6764,-14,4,Low,MiaMarissa,452,9,0,0,0,1.364444444,0,2
+45,1,1,Post Graduate,Pilot,Captive,511,0,84444,89859,5581,43,11,40,3,51,2,6740,-293,1,High,LorenzoJohanna,276,9,1,5,1,0.436363636,0,2
+48,1,19,Post Graduate,Pensioner,Independent,128,4,95523,78070,6547,37,8,36,0,55,0,5856,-41,2,Low,DavidLuella,212,1,0,0,1,4.715447154,2,1
+54,1,19,Graduate,Proffessor,Captive,312,7,83836,83488,8834,72,6,74,2,78,1,6262,-29,6,Medium,MontyBuddy,571,9,0,0,0,0.574358974,2,2
+41,1,23,Post Graduate,Pensioner,Captive,418,0,73183,77125,5568,63,8,65,4,82,2,5785,-233,6,Medium,MayraAbram,588,9,0,1,0,2.284615385,0,1
+58,1,29,Graduate,Driver,Captive,591,13,88384,91919,7203,137,8,124,3,167,0,6894,-94,4,Medium,MarcAlec,609,6,0,1,5,0.794392523,0,2
+30,1,11,Post Graduate,Teacher,Captive,643,6,96216,93971,8416,51,7,51,0,80,2,7048,-512,1,High,BusterNadia,182,9,0,3,0,0.343149808,1,1
+29,2,4,Graduate,Consultant,Captive,334,4,69692,80259,8218,36,9,36,2,56,1,6020,-208,2,Low,MontyBuddy,425,10,1,0,1,0.304556355,1,1
+47,1,10,Post Graduate,Pilot,Independent,387,10,95749,79304,0,92,6,101,1,123,1,5948,-1,3,Medium,MayraAbram,327,3,0,5,0,0.454022989,0,2
+54,1,15,Graduate,Business,Captive,170,5,64075,80337,6208,47,11,43,2,58,1,6026,-23,6,Low,MyronPhil,508,10,0,4,0,1.512437811,1,1
+20,1,1,Graduate,Proffessor,Independent,179,0,69904,89021,0,50,10,50,3,73,2,6677,-35,2,Medium,KristopherRolando,335,3,2,1,0,0.707317073,1,1
+41,1,1,Graduate,Software Developer,Captive,402,13,82576,92378,0,129,9,129,3,145,0,6929,35,4,Low,VickieMai,580,7,4,0,1,0.59858156,0,2
+46,1,14,Graduate,Teacher,Captive,307,0,88816,81461,0,89,9,92,0,126,0,6110,89,5,Low,KeriLamont,445,9,3,4,1,0.70212766,2,2
+25,1,7,Post Graduate,Software Developer,Captive,476,15,97681,95782,7965,138,10,148,0,190,1,7184,-7,4,High,MarcAlec,479,8,5,5,3,0.688571429,0,1
+50,2,14,Post Graduate,Driver,Captive,571,6,83146,91880,0,60,9,51,4,71,1,6891,-461,3,Medium,VickieMai,589,7,2,0,0,0.244952894,0,1
+22,1,3,Post Graduate,Pilot,Captive,612,6,65026,89101,0,56,8,52,3,79,1,6683,-340,3,Low,JacquelynLonny,187,7,0,5,0,2.801075269,1,2
+21,1,0,Post Graduate,Engineer,Independent,318,5,87531,91318,0,44,11,49,3,54,2,6849,-246,4,High,SpencerJarod,489,9,0,3,1,0.243377483,1,1
+38,1,16,Graduate,Doctor,Independent,565,7,76322,77792,0,72,7,63,2,90,0,5835,-260,4,Medium,SpencerJarod,373,9,0,1,0,0.886666667,2,2
+52,1,31,Post Graduate,Pilot,Independent,165,5,68196,96710,5114,42,11,47,3,57,0,7254,62,4,High,ChandraDante,289,4,0,0,1,0.194407457,0,2
+59,2,18,Graduate,Pilot,Captive,146,5,92925,99602,0,47,9,47,1,53,0,7471,-69,4,High,DomenicHerman,193,9,0,0,0,1.060070671,1,1
+28,1,2,Graduate,Pensioner,Independent,531,4,86761,92227,5332,41,11,36,1,47,2,6918,-480,1,Medium,AlphonsoTasha,520,1,1,0,0,0.442446043,0,1
+23,1,0,Graduate,Pilot,Captive,234,0,86768,75471,7350,61,7,68,1,89,2,5661,-65,1,High,MickeyMargret,218,3,2,0,0,0.533424284,2,1
+31,2,8,Graduate,Consultant,Captive,148,0,62337,88101,0,41,9,47,4,59,0,6608,46,2,Medium,CasandraPaulette,604,3,1,0,1,0.270179372,2,2
+34,1,8,Post Graduate,Proffessor,Captive,301,0,66401,91528,0,67,7,59,2,78,2,6865,-71,3,High,AmyShaun,527,5,0,0,0,0.429473684,0,2
+48,1,21,Graduate,Consultant,Captive,254,8,63147,90130,0,76,9,84,0,94,1,6760,99,3,Low,JudyAlden,484,10,3,4,0,0.738660907,2,2
+47,2,15,Post Graduate,Pensioner,Independent,124,0,98140,90248,8511,40,8,36,1,48,2,6769,36,2,Medium,MarionPablo,299,2,1,0,0,1.23015873,0,2
+56,1,6,Graduate,Proffessor,Captive,517,0,80013,92367,5177,92,10,89,2,106,0,6928,-255,5,Medium,DarrylErnie,533,10,3,3,0,1.108108108,2,1
+28,1,1,Post Graduate,Architect,Independent,168,6,72788,93979,7187,54,6,52,2,62,2,7049,97,2,Medium,DebraCollin,527,8,0,2,0,3.034313725,0,1
+30,1,0,Graduate,Software Developer,Captive,445,14,54122,82795,0,125,11,129,0,191,1,6210,94,1,High,MickeyMargret,634,1,0,0,0,0.831387808,3,1
+59,2,32,Post Graduate,Engineer,Captive,564,0,56831,97684,8543,70,6,70,4,79,1,7327,-378,6,High,LorenzoJohanna,491,5,0,4,0,0.679012346,2,1
+32,1,14,Graduate,Engineer,Independent,369,10,99688,78556,5603,98,11,92,3,117,2,5892,1,2,High,ClaudioSherwood,622,9,0,2,0,1.452247191,2,1
+40,2,3,Graduate,Driver,Captive,491,0,68564,85886,0,73,6,73,1,89,0,6442,-312,5,Low,DarrylErnie,244,8,2,1,0,0.39527027,0,1
+30,1,11,Graduate,Teacher,Captive,502,7,75826,79717,0,77,8,77,4,79,1,5979,-306,2,Medium,AlphonsoTasha,640,1,0,5,0,1.440993789,0,1
+52,1,25,Graduate,Business,Independent,409,8,77653,97228,5532,82,8,84,2,97,1,7293,-65,1,Medium,JohnathanLydia,647,7,0,0,0,4.413043478,2,1
+40,1,12,Post Graduate,Proffessor,Captive,246,0,79837,83951,0,76,7,74,0,96,1,6297,-57,1,Low,PrinceWill,603,1,0,4,0,2.563318777,0,1
+26,1,8,Post Graduate,Teacher,Captive,505,0,68688,88847,5181,62,6,71,1,81,0,6664,-351,6,High,JacquelynLonny,214,6,0,0,0,1.239299611,2,1
+35,1,16,Graduate,Architect,Independent,197,6,52698,91693,9583,54,6,57,3,63,2,6877,-43,3,Low,JacquelynLonny,601,10,0,5,0,0.244725738,1,1
+25,1,3,Post Graduate,Pensioner,Captive,338,11,79008,97063,0,112,6,95,1,132,0,7280,-100,2,Medium,SpencerJarod,403,8,0,2,0,1.065155807,2,1
+31,1,12,Post Graduate,Pensioner,Captive,533,0,70079,88502,5143,60,6,57,4,72,2,6638,-438,2,Medium,WilburErnestine,495,4,0,0,0,1.131736527,0,1
+24,1,1,Graduate,Architect,Independent,496,15,96477,75799,7891,164,7,159,2,174,2,5685,-50,1,Low,BusterNadia,572,2,0,0,0,1.29925187,0,1
+37,2,9,Graduate,Business,Captive,460,7,80376,94787,5716,75,7,68,1,91,1,7110,-310,3,Low,VickieMai,437,3,2,1,1,0.36124031,2,1
+57,1,5,Graduate,Architect,Captive,581,5,69474,91962,0,43,10,41,1,59,2,6898,-526,3,Low,AnitaMarshall,588,7,1,0,0,0.690767519,0,1
+53,1,20,Graduate,Teacher,Independent,477,6,86313,92111,0,50,11,47,0,71,0,6909,-371,1,Medium,RobertoJeremy,547,7,0,5,0,0.820895522,0,1
+42,2,12,Post Graduate,Pilot,Captive,614,10,76569,80471,0,85,11,100,0,118,2,6036,-258,6,Medium,DarrylErnie,302,4,0,4,3,0.403263403,2,1
+47,1,4,Graduate,Proffessor,Independent,349,0,53873,98230,7862,105,6,105,0,140,1,7368,-3,2,High,DiegoJane,561,7,0,0,0,0.768115942,2,1
+57,1,14,Graduate,Consultant,Captive,271,0,74635,77438,0,68,9,72,1,86,0,5808,-114,5,High,ClaudioSherwood,225,4,0,0,0,0.389850058,2,1
+60,1,21,Post Graduate,Consultant,Captive,606,0,92633,97277,6224,85,11,85,4,104,0,7296,-246,1,Medium,MavisJanelle,273,3,0,3,3,0.607264472,0,1
+37,1,17,Graduate,Pensioner,Independent,192,5,51430,91511,7147,40,6,44,2,58,2,6864,9,6,High,DorisTristan,234,7,0,5,0,0.281746032,1,1
+41,1,10,Graduate,Teacher,Independent,306,0,63661,96490,6941,96,11,93,4,102,1,7237,-75,1,Medium,MavisJanelle,321,1,0,2,0,0.765171504,2,1
+33,1,8,Post Graduate,Proffessor,Independent,318,0,54216,97360,8914,64,8,68,3,96,0,7302,-115,2,High,PollyGene,228,1,2,0,1,2.238938053,0,1
+47,1,22,Post Graduate,Engineer,Independent,353,9,61275,94820,0,95,7,92,3,110,2,7112,-16,2,High,JannaArden,486,5,0,0,0,0.58382643,0,1
+38,2,9,Post Graduate,Proffessor,Captive,589,15,90706,78767,9433,149,6,164,4,184,1,5908,-154,1,Low,MarionPablo,643,9,0,0,3,0.58519389,3,1
+44,1,1,Graduate,Engineer,Independent,346,0,98593,98274,0,73,10,70,3,99,1,7371,-40,5,High,PabloChelsea,242,2,0,5,1,0.960648148,2,1
+26,1,4,Graduate,Engineer,Captive,243,0,80305,77373,6435,70,8,70,1,72,2,5803,55,4,High,MarcAlec,211,5,0,2,1,0.504576659,2,1
+57,1,38,Post Graduate,Software Developer,Independent,282,0,52510,99656,7773,50,10,56,0,68,1,7475,-202,5,Medium,HarveyMelisa,174,6,0,2,0,1.03654485,1,1
+51,1,25,Graduate,Pensioner,Independent,396,0,68212,86729,7982,75,8,73,2,94,2,6505,-119,1,High,TracieSasha,453,2,0,0,0,1.607142857,0,1
+34,1,3,Graduate,Engineer,Captive,608,4,58229,82344,5954,38,8,39,4,54,0,6176,-392,1,Medium,ChandraDante,131,1,0,0,0,2.183333333,1,1
+44,1,2,Graduate,Software Developer,Captive,524,0,62496,77326,6922,69,9,65,4,75,0,5800,-378,4,Medium,LouellaJosue,209,9,0,0,0,1.593582888,2,1
+60,1,19,Graduate,Proffessor,Captive,422,0,67908,98440,6402,38,10,37,3,56,1,7383,-355,6,High,PollyGene,424,3,1,5,0,0.238615665,0,1
+51,1,19,Post Graduate,Business,Independent,209,5,62180,85996,0,46,8,49,4,63,2,6450,-9,1,Low,DwightNeva,430,3,2,1,0,0.423180593,0,1
+46,1,20,Post Graduate,Proffessor,Captive,539,6,66832,93659,0,56,11,56,0,58,1,7025,-441,5,Medium,LorenzoJohanna,170,8,0,5,0,0.784697509,0,1
+50,1,11,Post Graduate,Engineer,Captive,396,4,86388,86229,5277,36,8,42,3,52,1,6468,-220,2,Low,KristopherRolando,367,9,0,5,0,2.835616438,0,1
+27,1,4,Post Graduate,Pilot,Captive,607,7,50775,94190,0,69,10,65,2,97,2,7065,-333,4,Medium,YoungMicah,535,10,2,0,1,0.470468432,2,1
+33,1,2,Post Graduate,Architect,Captive,410,13,99386,93241,0,128,8,124,0,148,0,6994,-21,3,Low,MavisJanelle,460,2,0,4,1,0.53042328,3,1
+35,1,1,Graduate,Proffessor,Independent,178,6,54176,91499,9384,59,6,55,3,64,0,6863,94,4,Medium,MickeyMargret,497,10,2,3,0,1.658064516,2,1
+56,1,3,Graduate,Pilot,Captive,424,13,58837,97626,0,123,6,131,3,170,1,7322,-63,2,High,KimberlyCasandra,432,1,4,0,0,0.865580448,3,1
+25,1,6,Graduate,Consultant,Independent,465,0,63895,97402,0,84,7,81,3,97,2,7306,-293,3,Low,JohnathanLydia,283,4,0,0,1,1.135761589,2,1
+34,1,1,Post Graduate,Engineer,Captive,337,0,65880,95286,5317,75,9,83,2,93,1,7147,-127,5,Medium,DorisTristan,624,9,0,3,0,0.387332521,2,1
+35,1,3,Graduate,Driver,Independent,244,0,62643,81445,0,76,7,71,4,98,2,6109,73,1,Medium,DwightNeva,404,4,0,3,0,1.601823708,2,1
+56,1,28,Post Graduate,Proffessor,Captive,359,0,76547,87285,0,39,8,41,0,43,2,6547,-167,4,Low,DorisTristan,417,8,0,0,0,0.763975155,1,1
+57,1,29,Graduate,Doctor,Independent,219,0,71881,86902,7947,61,11,68,2,90,1,6518,-64,2,Medium,BillyJerry,628,5,0,4,1,0.669829222,2,1
+41,2,2,Graduate,Driver,Independent,138,5,75158,86689,8244,44,9,40,0,54,1,6502,95,6,Medium,LouellaJosue,245,1,0,4,0,0.330632091,0,1
+34,1,4,Post Graduate,Software Developer,Captive,604,0,88690,80612,0,46,11,51,2,62,0,6046,-538,4,Low,LoreneIsiah,159,10,0,0,0,1.298597194,0,1
+29,1,1,Graduate,Pilot,Independent,630,5,92797,97115,6722,39,10,41,0,56,2,7284,-396,5,High,RobertoJeremy,367,3,0,0,0,0.271457086,1,1
+46,1,5,Graduate,Pilot,Captive,328,0,58295,77805,0,108,8,105,1,115,0,5836,92,1,Medium,AlphonsoTasha,615,1,0,0,0,0.956647399,0,1
